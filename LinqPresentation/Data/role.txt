@@ -1,0 +1,833 @@
+2169;671;Apollo Creed
+2169;670;Paulie Pennino
+2169;669;Adrian Pennino
+2169;668;Rocky Balboa
+2006;32;Emilie Schindler
+2006;31;Amon Goeth
+2006;30;Itzhak Stern
+2006;29;Oskar Schindler
+2004;22;Aldo Giuffrè
+2004;21;Sentenza
+2004;20;Blondie
+2004;19;Tuco
+2052;224;Zeniba
+2052;223;Mari Natsuki
+2052;222;Miyu Irino
+2052;221;Chihiro
+2034;152;Pvt. Benjamin Buford 'Bubba' Blue
+2034;151;Lt. Dan Taylor
+2034;150;Jenny Curran
+2034;64;Forrest Gump
+2154;611;Beulah Bains
+2154;279;A Tramp
+2154;610;The Kid
+2154;609;Edna Purviance
+2204;781;Grandpa Edwin Hoover
+2204;780;Dwayne
+2204;779;Richard Hoover
+2204;778;Olive Hoover
+2144;578;Lester Diamond
+2144;75;Nicky Santoro
+2144;577;Ginger McKenna
+2144;12;Sam 'Ace' Rothstein
+2076;47;Lando Calrissian
+2076;46;Princess Leia
+2076;45;Han Solo
+2076;44;Luke Skywalker
+2190;736;Noah Emmerich
+2190;735;Meryl Burbank
+2190;248;Truman Burbank
+2014;67;Lotso
+2014;66;Jessie
+2014;65;Buzz Lightyear
+2014;64;Woody
+2077;317;English Bob
+2077;2;Ned Logan
+2077;316;Little Bill Daggett
+2077;20;William 'Bill' Munny
+2026;121;Agent Smith
+2026;120;Trinity
+2026;119;Morpheus
+2026;118;Neo
+2150;596;Marvin Unger
+2150;595;Val Cannon
+2150;594;Fay
+2150;143;Johnny Clay
+2062;263;Dudley Smith
+2062;124;Ed Exley
+2062;262;Bud White
+2062;169;Jack Vincennes
+2149;593;Birdie Steptoe
+2149;592;Rachel Cooper
+2149;591;Willa Harper
+2149;590;Harry Powell
+2140;564;Django
+2140;563;Linguini
+2140;562;Skinner
+2140;561;Remy
+2046;200;Captain
+2046;199;EVE
+2046;198;WALL-E/M-O
+2128;513;Gina Montana
+2128;512;Elvira Hancock
+2128;511;Manny Ribera
+2128;7;Tony Montana
+2171;676;Captain Englehorn
+2171;675;John Driscoll
+2171;674;Carl Denham
+2171;673;Ann Darrow
+2158;626;Sharon
+2158;36;Lt. Kinderman
+2158;358;Father Merrin
+2158;252;Chris MacNeil
+2023;105;Harmonica
+2023;104;Cheyenne
+2023;103;Jill McBain
+2023;102;Frank
+2007;37;Juror #4
+2007;36;Juror #3
+2007;35;Juror #2
+2007;34;Juror #1
+2201;769;Lo 'Dark Cloud'
+2201;768;Jen Yu Mandarin version)
+2201;767;Yu Shu Lien
+2201;766;Master Li Mu Bai
+2134;537;Leon Shermer
+2134;536;Det. Sgt. Eugene Moretti
+2134;410;Sal
+2134;7;Sonny Wortzik
+2113;461;Carine McCandless
+2113;460;Walt McCandless
+2113;459;Billie McCandless
+2113;458;Chris McCandless
+2084;343;Jim Taylor
+2084;72;Senator Joseph Harrison Paine
+2084;91;Jefferson Smith
+2084;342;Clarissa Saunders
+2018;87;Dadinho - Li'l Dice
+2018;86;Bene - Benny
+2018;85;Ze Pequeno - Li'l Ze
+2018;84;Buscape - Rocket
+2136;547;William Tubbs
+2136;546;Bimba
+2136;545;Folco Lulli
+2136;544;Mario
+2182;708;Elizabeth Swann
+2182;707;Will Turner
+2182;706;Barbossa
+2182;651;Jack Sparrow
+2120;487;Centurion
+2120;486;Wise Man #1
+2120;485;Biggus Dickus
+2120;484;Wise Man #2
+2156;619;The Maid
+2156;618;The Woman From the City
+2156;617;The Wife
+2156;616;The Man
+2056;242;Oberstleutnant Anton Grubitz
+2056;241;Georg Dreyman
+2056;240;Hauptmann Gerd Wiesler
+2056;239;Christa-Maria Sieland
+2022;101;Marion Crane
+2022;100;Sam Loomis
+2022;99;Lila Crane
+2022;98;Norman Bates
+2151;599;Count Tyrone Rugen
+2151;537;Prince Humperdinck
+2151;598;Inigo Montoya
+2151;597;Westley
+2131;527;Mr. Braddock
+2131;490;Elaine Robinson
+2131;526;Ben Braddock
+2131;525;Mrs. Robinson
+2087;353;Police Sergeant Pete Menzies
+2087;157;Police Captain Hank Quinlan
+2087;101;Susan 'Susie' Vargas
+2087;352;Ramon Miguel 'Mike' Vargas
+2177;693;Richard Erdman
+2177;692;Robert Strauss
+2177;691;Lt. James Dunbar
+2177;135;Sgt. J.J. Sefton
+2123;498;Gill
+2123;497;Nemo
+2123;496;Dory
+2123;495;Marlin
+2180;702;Myrtle Bagot
+2180;701;Albert Godby
+2180;266;Dr. Alec Harvey
+2180;700;Laura Jesson
+2066;278;Eliseo Orefice
+2066;277;Giosue Orefice
+2066;276;Dora
+2066;275;Guido Orefice
+2057;246;Mr. Jackson
+2057;245;Barton Keyes
+2057;244;Phyllis Dietrichson
+2057;243;Walter Neff
+2011;55;Gondorian Soldier 3
+2011;54;Sam
+2011;53;Elanor Gamgee
+2011;52;Everard Proudfoot
+2165;654;Kathy O'Hara
+2165;653;Dolores Fuller
+2165;652;Bela Lugosi
+2165;651;Ed Wood
+2116;470;Slinky Dog
+2116;469;Mr. Potato Head
+2116;65;Buzz Lightyear
+2116;64;Woody
+2103;421;A Southern General
+2103;420;General Thatcher
+2103;419;Captain Anderson
+2103;418;Annabelle Lee
+2100;408;Helen Ramirez
+2100;407;Deputy Marshal Harvey Pell
+2100;130;Mayor Jonas Henderson
+2100;406;Marshal Will Kane
+2045;196;Amandine Poulain
+2045;195;Raphael Poulain
+2045;194;Nino Quincampoix
+2045;193;Amelie Poulain
+2108;437;Seizaburo Kawazu
+2108;436;Isuzu Yamada
+2108;435;Tatsuya Nakadai
+2108;57;Sanjuro Kuwabatake
+2145;281;Malcolm Waite
+2145;580;Black Larsen
+2145;579;Big Jim McKay
+2145;279;The Lone Prospector
+2160;634;Newsreader
+2160;327;Jasper
+2160;633;Baby Diego
+2160;632;Theo Faron
+2167;663;Dr. Sanderson
+2167;662;Miss Kelly - Nurse
+2167;661;Veta Louise Simmons
+2167;91;Elwood P. Dowd
+2200;764;Boo/Mary
+2200;763;Mike Wazowski
+2200;424;James P. "Sulley" Sullivan
+2036;161;Emily Monroe Norton Kane
+2036;160;Mary Kane
+2036;159;Susan Alexander Kane
+2036;158;Jedediah Leland
+2033;148;Tony
+2033;147;Mathilda
+2033;146;Stansfield
+2033;145;Leon
+2210;805;Detective Lester Ybarra
+2210;804;Sandy
+2210;803;Walter Collins
+2210;802;Christine Collins
+2121;491;Percy Garris
+2121;490;Etta Place
+2121;489;The Sundance Kid
+2121;392;Butch Cassidy
+2197;754;Parnell Emmett McCarthy
+2197;753;Lt. Frederick Manion
+2197;752;Laura Manion
+2197;91;Paul Biegler
+2164;649;Roman Castevet
+2164;648;Minnie Castevet
+2164;647;Guy Woodhouse
+2164;646;Rosemary Woodhouse
+2065;274;Cody
+2065;273;Curtin
+2065;272;Howard
+2065;69;Dobbs
+2080;29;Henri Ducard
+2080;327;Alfred
+2080;48;Bruce Wayne / Batman
+2101;412;Nick
+2101;411;Steven
+2101;410;Stan
+2101;12;Michael
+2118;478;Lenny
+2118;477;Stephanie
+2118;476;Cassidy
+2118;475;Randy
+2001;9;Peter Clemenza
+2001;8;Santino 'Sonny' Corleone
+2001;7;Michael Corleone
+2001;6;Don Vito Corleone
+2137;552;Dan Green
+2137;551;Shannon Conley
+2137;550;Akemi Yamaguchi
+2137;549;Ayano Shiraishi
+2064;271;Martin Semmelrogge
+2064;270;Chief Engineer Fritz Grade - Der Leitende-Der LI
+2064;269;Lt. Werner - Correspondent
+2064;268;Capt.-Lt. Henrich Lehmann-Willenbrock - Der Alte
+2055;237;Maudie Atkinson
+2055;236;Sheriff Heck Tate
+2055;235;Charles Baker 'Dill' Harris
+2055;234;Atticus Finch
+2099;404;Samantha Darko
+2099;403;Elizabeth Darko
+2099;402;Eddie Darko
+2099;401;Donnie Darko
+2079;326;Ellen Brody
+2079;325;Matt Hooper
+2079;324;Sam Quint
+2079;323;Chief Martin Brody
+2083;341;Charley 'the Gent' Malloy
+2083;36;Johnny Friendly
+2083;340;Father Barry
+2083;6;Terry Malloy
+2205;787;Hon Sam
+2205;786;SP Wong Chi Shing
+2205;785;Chen Wing Yan
+2205;784;Inspector Lau Kin Ming
+2157;624;Peggy Stephenson
+2157;623;Fred Derry
+2157;622;Al Stephenson
+2157;621;Milly Stephenson
+2148;472;Maximilian Schell
+2148;589;Dr. Ernst Janning
+2148;588;Chief Judge Dan Haywood
+2002;12;Vito Corleone
+2002;11;Kay Corleone
+2002;10;Tom Hagen
+2002;7;Don Michael Corleone
+2174;685;Frank T.J. Mackey
+2174;684;Officer Jim Kurring
+2174;683;Donnie Smith
+2174;425;Linda Partridge
+2082;338;Director
+2082;337;Prem Kapur
+2082;336;Sergeant Srinivas
+2082;335;Jamal K. Malik
+2122;355;Jullan Kindahl
+2122;494;Marianne Borg
+2122;493;Sara
+2122;492;Dr. Isak Borg
+2020;94;Stella
+2020;93;Det. Lt. Thomas J. Doyle
+2020;92;Lisa Carol Fremont
+2020;91;L.B. 'Jeff' Jeffries
+2092;373;Nate
+2092;372;Chris Shiherlis
+2092;12;Neil McCauley
+2092;7;Lt. Vincent Hanna
+2203;473;Sempronius Gracchus
+2203;775;Varinia
+2203;774;Marcus Licinius Crassus
+2203;211;Spartacus
+2138;555;Lord Irwin
+2138;554;Gen. Reginald Dyer
+2138;553;Margaret Bourke-White
+2138;30;Mohandas K. Gandhi
+2124;113;Ezra Kramer
+2124;501;Noah Vosen
+2124;500;Nicky Parsons
+2124;209;Jason Bourne
+2058;89;Patrick
+2058;250;Train Conductor
+2058;249;Clementine Kruczynski
+2058;248;Joel Barish
+2069;289;Sgt. Donny Donowitz
+2069;288;Col. Hans Landa
+2069;287;Shosanna Dreyfus
+2069;79;Lt. Aldo Raine
+2027;123;Police Captain
+2027;122;Tracy Mills
+2027;2;Detective Lt. William Somerset
+2027;79;Detective David Mills
+2195;750;Honey
+2195;749;Nick
+2195;748;George
+2195;747;Martha
+2208;797;O'Hara
+2208;796;Jonathan Brewster
+2208;795;Elaine Harper
+2208;153;Mortimer Brewster
+2198;757;Steven Berkoff
+2198;206;The Chevalier
+2198;756;Lady Lyndon
+2198;755;Barry Lyndon
+2041;178;T-1000
+2041;165;John Connor
+2041;177;Sarah Connor
+2041;176;The Terminator
+2119;482;King Westley
+2119;481;Roscoe Karns
+2119;480;Ellie Andrews
+2119;479;Peter Warne
+2178;697;Shimizu
+2178;696;Baron Nishi
+2178;695;Saigo
+2178;694;General Kuribayashi
+2147;545;Jean Brochard
+2147;586;Michel Delassalle
+2147;547;Christina Delassalle
+2147;585;Nicole Horner
+2096;390;Patricia Hitchcock
+2096;389;Leo G. Carroll
+2096;388;Anne Morton
+2096;387;Guy Haines
+2000;4;Heywood
+2000;3;Warden Norton
+2000;2;Ellis Boyd 'Red' Redding
+2000;1;Andy Dufresne
+2181;387;Phillip Morgan
+2181;704;Brandon Shaw
+2181;703;Janet Walker
+2181;91;Rupert Cadell
+2193;744;Dr. Zaius - Minister of Science
+2193;672;Dr. Zira
+2193;743;Cornelius
+2193;352;Colonel George Taylor
+2067;282;Big Bill
+2067;281;Cafe Proprietor
+2067;280;A Gamin
+2067;279;A Factory Worker
+2153;608;Freddie Sykes
+2153;607;Deke Thornton
+2153;606;Dutch Engstrom
+2153;135;Pike Bishop
+2141;567;Deitrich
+2141;566;Finch
+2141;121;V
+2141;147;Evey
+2054;232;Theodor Loos
+2054;231;Otto Wernicke
+2054;230;Frau Beckmann
+2054;229;Hans Beckert
+2189;733;Moroccan Minister
+2189;732;Carey Loftin
+2189;340;Stephen Young
+2189;142;General George S. Patton Jr.
+2039;172;Ricky Fitts
+2039;171;Jane Burnham
+2039;170;Carolyn Burnham
+2039;169;Lester Burnham
+2090;368;Tsunehiko Kamijo
+2090;367;Kaoru Kobayashi
+2090;366;San
+2090;365;Ashitaka
+2072;301;Emanuel Schikaneder
+2072;300;Constanze Mozart
+2072;299;Wolfgang Amadeus Mozart
+2072;298;Antonio Salieri
+2051;219;Henryk
+2051;218;Jurek
+2051;217;Dorota
+2051;216;Wladyslaw Szpilman
+2043;186;Pvt. Daniel Jackson
+2043;185;Pvt. Richard Reiben
+2043;184;Sgt. Mike Horvath
+2043;64;Capt. John H. Miller
+2194;746;Tracy
+2194;745;Keaton
+2194;427;Woddy Allen
+2155;189;Audrey Fildes
+2155;614;Edith D'Ascoyne
+2155;613;Louis Mazzini
+2166;659;Claude
+2166;658;Henriette Roi
+2166;657;Celine
+2166;656;Jean-Do
+2185;719;Bokuzen Hidari
+2185;718;Minoru Chiaki
+2185;717;Kimura
+2185;58;Kanji Watanabe
+2105;426;Theodore Donald 'Donny' Kerabatsos
+2105;425;Maude Lebowski
+2105;424;Walter Sobchak
+2105;423;Jeffrey Lebowski - The Dude
+2098;399;Anna Crowe
+2098;398;Lynn Sear
+2098;397;Cole Sear
+2098;329;Dr. Malcolm Crowe
+2199;760;Harcourt Williams
+2199;759;Irving Radovich
+2199;758;Princess Ann
+2199;234;Joe Bradley
+2091;370;Luigi Pistilli
+2091;369;El Indio The Indian)
+2091;21;Col. Douglas Mortimer
+2091;20;Monco
+2175;689;Vernita Green
+2175;688;O-Ren Ishii
+2175;687;Bill - 'Snake Charmer'
+2175;686;Beatrix Kiddo - The Bride;'Black Mamba'
+2130;523;Vern Tessio
+2130;522;Teddy Duchamp
+2130;521;Chris Chambers
+2130;520;Gordie Lachance
+2028;126;Burt
+2028;125;Teddy Gammell
+2028;120;Natalie
+2028;124;Leonard
+2074;311;Group Capt. Ramsey "The SBO"
+2074;310;Squadron Leader Roger Bartlett "Big X"
+2074;309;Flight Lt. Hendley "The Scrounger"
+2074;308;Capt. Hilts "he Cooler King"
+2109;442;Silver Assay Worker
+2109;441;Silver Assay Worker
+2109;440;Silver Assay Worker
+2109;439;Daniel Plainview
+2042;183;Brett
+2042;182;Lambert
+2042;181;Ripley
+2042;180;Dallas
+2019;54;Samwise 'Sam' Gamgee
+2019;52;Everard Proudfoot
+2019;89;Frodo Baggins
+2019;88;The Ring
+2008;42;Miller
+2008;41;Dr. Spivey
+2008;40;Col. Matterson
+2008;39;Ellis
+2188;349;Det. Graham Waters
+2188;730;Jean Cabot
+2188;729;Dato Bakhtadze
+2168;666;Sandra Bloom - Senior
+2168;665;Will Bloom
+2168;664;Ed Bloom - Senior
+2168;502;Ed Bloom - Young
+2088;358;Antonius Block
+2088;357;Jof
+2088;356;Death
+2088;355;Jons;squire
+2038;167;Dr. Bob Sweeney
+2038;166;Doris Vinyard
+2038;165;Danny Vinyard
+2038;78;Derek Vinyard
+2073;306;Joseph Goebbels
+2073;305;Magda Goebbels
+2073;304;Traudl Junge
+2073;303;Adolf Hitler
+2125;505;Tommy
+2125;504;Sick Boy
+2125;503;Spud
+2125;502;Renton
+2068;286;Moon-Watcher
+2068;285;Dr. Heywood R. Floyd
+2068;284;Dr. Frank Poole
+2068;283;Dr. Dave Bowman
+2110;446;Mrs. Iselin
+2110;101;Eugenie Rose Chaney
+2110;445;Raymond Shaw
+2110;444;Major Bennett Marco
+2097;395;Koko
+2097;394;Society Red
+2097;393;Dragline
+2097;392;Luke
+2094;381;Colonel Miles Quaritch
+2094;181;Dr. Grace Augustine
+2094;380;Neytiri
+2094;379;Jake Sully
+2206;72;Prince John
+2206;791;Sir Guy of Gisbourne
+2206;790;Maid Marian
+2206;789;Robin Hood of Locksley
+2191;740;Hitoshi Takagi
+2191;739;Sumi Shimamoto
+2191;738;Mei
+2191;737;Satsuki
+2187;727;Lt Bob Roland - Firefly's aide-de-camp
+2187;726;Chicolini
+2187;725;Pinky
+2187;724;Rufus T. Firefly
+2112;456;Mufasa
+2112;455;Scar
+2112;454;Adult Simba
+2112;453;Young Simba
+2107;434;Bunny
+2107;433;Rhah
+2107;432;Big Harold
+2107;431;King
+2163;142;Bert Gordon
+2163;645;Sarah Packard
+2163;644;Minnesota Fats
+2163;392;Eddie Felson
+2016;76;Karen Hill
+2016;75;Tommy DeVito
+2016;74;Henry Hill
+2016;12;James 'Jimmy' Conway
+2061;260;Nice Guy Eddie Cabot
+2061;259;Mr. Blonde - Vic Vega
+2061;26;Mr. Orange - Freddy Newandyke
+2061;174;Mr. White - Larry Dimmick
+2049;210;Staff Sgt. Dignam
+2049;201;Frank Costello
+2049;209;Colin Sullivan
+2049;14;Billy Costigan
+2085;346;Gaff
+2085;345;Rachael
+2085;344;Roy Batty
+2085;45;Rick Deckard
+2060;258;Escobar
+2060;257;Noah Cross
+2060;256;Evelyn Mulwray
+2060;201;J.J. Gittes
+2111;450;Saburo Naotora Ichimonji
+2111;449;Jiro Masatora Ichimonji
+2111;448;Taro Takatora Ichimonji
+2111;447;Lord Hidetora Ichimonji
+2106;429;Allison
+2106;428;Rob
+2106;11;Annie Hall
+2106;427;Woddy Allen
+2093;378;The Wizard of Oz
+2093;377;The Carriage Driver
+2093;376;Professor Marvel
+2093;375;Dorothy
+2029;130;Uncle Billy
+2029;129;Henry F. Potter
+2029;128;Mary Hatch Bailey
+2029;91;George Bailey
+2162;642;Ennio Girolami
+2162;641;Dorian Gray
+2162;640;Oscar D'Onofrio
+2162;639;Maria 'Cabiria' Ceccarelli
+2050;214;Gen. Paul Mireau
+2050;213;Gen. George Broulard
+2050;212;Cpl. Philippe Paris
+2050;211;Col. Dax
+2102;415;Brick Top
+2102;79;Mickey O'Neil
+2102;109;Franky Four Fingers
+2102;414;Turkish
+2012;60;Rikichi's Wife
+2012;59;Shino
+2012;58;Kanbe Shimada
+2012;57;Kikuchiyo
+2037;163;Jay 'Chef' Hicks
+2037;10;Lieutenant Colonel Bill Kilgore
+2037;162;Captain Benjamin L. Willard
+2037;6;Colonel Walter E. Kurtz
+2031;138;Betty Schaefer
+2031;137;Max Von Mayerling
+2031;136;Norma Desmond
+2031;135;Joe Gillis
+2025;115;Jame 'Buffalo Bill' Gumb
+2025;114;Dr. Hannibal Lecter
+2025;113;Jack Crawford
+2025;112;Clarice Starling
+2030;133;Man Flesh Uruk
+2030;132;Madril
+2030;54;Samwise 'Sam' Gamgee
+2030;131;Aldor
+2104;422;Captain Paul Prescott
+2104;72;Alexander Sebastian
+2104;70;Alicia Huberman
+2104;153;T.R. Devlin
+2143;576;Dorris Bowdon
+2143;575;Casy
+2143;574;Ma Joad
+2143;102;Tom Joad
+2115;467;Danger Barch
+2115;2;Eddie Scrap-Iron Dupris
+2115;466;Maggie Fitzgerald
+2115;20;Frankie Dunn
+2089;364;Carson Wells
+2089;363;Llewelyn Moss
+2089;362;Anton Chigurh
+2089;361;Ed Tom Bell
+2009;47;Lando Calrissian
+2009;46;Princess Leia
+2009;45;Han Solo
+2009;44;Luke Skywalker
+2070;294;Lina Lamont
+2070;293;Kathy Selden
+2070;292;Cosmo Brown
+2070;291;Don Lockwood
+2159;630;Overweight Woman #2
+2159;629;Olivier Bonjour
+2159;628;Natalie
+2063;266;Major Calloway
+2063;157;Harry Lime
+2063;265;Anna Schmidt
+2063;158;Holly Martins
+2126;508;Suellen
+2126;507;Scarlett
+2126;506;Ellen O'Hara - His Wife
+2126;130;Gerald O'Hara
+2129;518;Ned
+2129;517;Larry
+2129;516;Rita
+2129;515;Phil
+2132;531;Palmer
+2132;530;Nauls
+2132;529;Dr. Blair
+2132;528;R.J. MacReady
+2184;716;Daniel Couturier
+2184;715;Georges Flamant
+2184;714;Albert Remy
+2184;713;Antoine Doinel
+2013;62;Grand Moff Tarkin
+2013;46;Princess Leia Organa
+2013;45;Han Solo
+2013;44;Luke Skywalker
+2146;584;Carla
+2146;583;Luisa Anselmi
+2146;103;Claudia
+2146;582;Guido Anselmi
+2021;97;Major Arnold Toht
+2021;96;Dr. Rene Belloq
+2021;95;Marion Ravenwood
+2021;45;Indiana Jones
+2024;110;Todd Hockney
+2024;109;Fred Fenster
+2024;108;Dean Keaton
+2024;107;Michael McManus
+2183;711;Captain of Louisa
+2183;710;Rev. Samuel Sayer
+2183;709;Rose Sayer
+2183;69;Charlie Allnut
+2161;638;Prof. Gerald Lambeau
+2161;637;Chuckie Sullivan
+2161;209;Will Hunting
+2161;636;Sean Maguire
+2015;72;Captain Renault
+2015;71;Victor Laszlo
+2015;70;Ilsa Lund
+2015;69;Rick Blaine
+2202;773;William Hickey
+2202;772;Sally
+2202;537;Jack Skellington
+2202;771;Jack Skellington - Singing Voice
+2133;535;Daniel
+2133;534;Valeria
+2133;533;Octavio
+2133;532;El Chivo
+2032;143;Brigadier General Jack Ripper
+2032;142;General 'Buck' Turgidson
+2032;141;Dr. Strangelove
+2032;140;Group Captain Lionel Mandrake
+2075;314;Dr. Elsa Schneider
+2075;313;Marcus Brody
+2075;312;Professor Henry Jones
+2075;45;Indiana Jones
+2179;699;Joseph Newton
+2179;698;Jack Graham
+2179;158;Uncle Charlie Oakley
+2078;322;Giulio Chiari
+2078;321;Gino Saltamerenda
+2078;320;Bruno Ricci
+2078;319;Antonio Ricci
+2173;10;Frank Hackett
+2173;682;Howard Beale
+2173;135;Max Schumacher
+2173;256;Diana Christensen
+2095;386;Dr Katrina McKenzie
+2095;385;Sarah Livingstone - Sociologist
+2095;384;Grey Bradnam - UKNR Chief Correspondent
+2095;383;Wikus Van De Merwe
+2127;509;Lieutenant Ed Traxler
+2127;177;Sarah Connor
+2127;226;Kyle Reese
+2127;176;The Terminator
+2176;119;Sgt. Whitey Powers
+2176;690;Sean Devine
+2176;1;Dave Boyle
+2176;457;Jimmy Markum
+2207;794;Dr. Bruner
+2207;793;Susanna
+2207;685;Charlie Babbitt
+2207;526;Raymond Babbitt
+2005;27;Honey Bunny - Yolanda
+2005;26;Pumpkin - Ringo
+2005;25;Jules Winnfield
+2005;24;Vincent Vega
+2059;255;Tyrone C. Love
+2059;254;Marion Silver
+2059;253;Harry Goldfarb
+2059;252;Sara Goldfarb
+2017;81;Robert 'Bob' Paulson
+2017;80;Marla Singer
+2017;79;Tyler Durden
+2017;78;The Narrator
+2170;340;Harold 'Mitch' Mitchell
+2170;672;Stella Kowalski
+2170;6;Stanley Kowalski
+2170;507;Blanche DuBois
+2196;163;Mark
+2196;751;William P. 'Bernie' Moran
+2196;410;Stan
+2196;316;Harry Caul
+2114;465;Carmen Sternwood
+2114;464;Eddie Mars
+2114;463;Vivian Rutledge
+2114;69;Philip Marlowe
+2172;681;Karin Bergquist
+2172;680;Hakan
+2172;679;Eli
+2172;678;Oskar
+2040;174;Matthew 'Sport' Higgins
+2040;173;Betsy
+2040;112;Iris
+2040;12;Travis Bickle
+2152;604;Astrid
+2152;603;Gobber
+2152;602;Stoick
+2152;467;Hiccup
+2142;572;Nero
+2142;571;Spock Prime
+2142;570;Spock
+2142;569;James T. Kirk
+2053;227;Bishop
+2053;226;Cpl. Dwayne Hicks
+2053;225;Rebecca 'Newt' Jorden
+2053;181;Ellen Ripley
+2209;801;Ryunosuke Kamiki
+2209;800;Tatsuya Gashuin
+2209;799;Hauru
+2209;798;Sofi
+2192;742;Stinky Pete the Prospector
+2192;66;Jessie the Yodeling Cowgirl
+2192;65;Buzz Lightyear
+2192;64;Woody
+2186;316;Buck Barrow
+2186;722;C.W. Moss
+2186;256;Bonnie Parker
+2186;721;Clyde Barrow
+2047;204;Dick Hallorann
+2047;203;Danny Torrance
+2047;202;Wendy Torrance
+2047;201;Jack Torrance
+2117;474;Miss Plimsoll
+2117;473;Sir Wilfrid Robarts
+2117;472;Christine Vole
+2117;471;Leonard Vole
+2035;156;Clara Thornhill
+2035;155;Phillip Vandamm
+2035;154;Eve Kendall
+2035;153;Roger O. Thornhill
+2048;208;Dim
+2048;207;Chief Guard
+2048;206;Mr Alexander
+2048;205;Alex
+2003;17;Eames
+2003;16;Ariadne
+2003;15;Arthur
+2003;14;Cobb
+2135;542;Ricardo Morales
+2135;541;Liliana Coloto
+2135;540;Benjamin Esposito
+2135;539;Irene Menendez Hastings
+2081;332;Karl
+2081;331;Holly Gennaro McClane
+2081;330;Hans Gruber
+2081;329;Officer John McClane
+2044;191;General Allenby
+2044;190;Auda Abu Tayi
+2044;189;Prince Feisal
+2044;188;T.E. Lawrence
+2086;351;George Rutaganda
+2086;350;Dube
+2086;349;Paul Rusesabagina
+2086;348;Policeman
+2139;414;Bacon
+2139;558;Eddy
+2139;557;Soap
+2139;556;Tom
+2071;123;Gny. Sgt. Hartman
+2071;297;Pvt. Pyle
+2071;296;Animal Mother
+2071;295;Pvt. Joker
+2010;50;Harvey Dent
+2010;49;Joker
+2010;48;Bruce Wayne / Batman

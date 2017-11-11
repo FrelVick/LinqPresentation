@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMovie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Movie>
+    <ID>2065</ID>
+    <Name>The Treasure of the Sierra Madre</Name>
+    <Year>1948</Year>
+    <Lenght>126</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2115</ID>
+    <Name>Million Dollar Baby</Name>
+    <Year>2004</Year>
+    <Lenght>132</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2089</ID>
+    <Name>No Country for Old Men</Name>
+    <Year>2007</Year>
+    <Lenght>122</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2009</ID>
+    <Name>Star Wars : Episode V - The Empire Strikes Back</Name>
+    <Year>1980</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2070</ID>
+    <Name>Singin' in the Rain</Name>
+    <Year>1952</Year>
+    <Lenght>103</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2175</ID>
+    <Name>Kill Bill : Vol. 2</Name>
+    <Year>2004</Year>
+    <Lenght>136</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2169</ID>
+    <Name>Rocky</Name>
+    <Year>1976</Year>
+    <Lenght>119</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2159</ID>
+    <Name>In Bruges</Name>
+    <Year>2008</Year>
+    <Lenght>107</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2130</ID>
+    <Name>Stand by Me</Name>
+    <Year>1986</Year>
+    <Lenght>89</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2063</ID>
+    <Name>The Third Man</Name>
+    <Year>1949</Year>
+    <Lenght>93</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2006</ID>
+    <Name>Schindler's List</Name>
+    <Year>1993</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2126</ID>
+    <Name>Gone with the Wind</Name>
+    <Year>1939</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2080</ID>
+    <Name>Batman Begins</Name>
+    <Year>2005</Year>
+    <Lenght>140</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2004</ID>
+    <Name>The Good,the Bad and the Ugly</Name>
+    <Year>1966</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2052</ID>
+    <Name>Spirited Away</Name>
+    <Year>2001</Year>
+    <Lenght>125</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2028</ID>
+    <Name>Memento</Name>
+    <Year>2000</Year>
+    <Lenght>113</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2129</ID>
+    <Name>Groundhog Day</Name>
+    <Year>1993</Year>
+    <Lenght>101</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2034</ID>
+    <Name>Forrest Gump</Name>
+    <Year>1994</Year>
+    <Lenght>142</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2154</ID>
+    <Name>The Kid</Name>
+    <Year>1921</Year>
+    <Lenght>54</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2101</ID>
+    <Name>The Deer Hunter</Name>
+    <Year>1978</Year>
+    <Lenght>182</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2074</ID>
+    <Name>The Great Escape</Name>
+    <Year>1963</Year>
+    <Lenght>172</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2118</ID>
+    <Name>The Wrestler</Name>
+    <Year>2008</Year>
+    <Lenght>109</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2001</ID>
+    <Name>The Godfather</Name>
+    <Year>1972</Year>
+    <Lenght>175</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2204</ID>
+    <Name>Little Miss Sunshine</Name>
+    <Year>2006</Year>
+    <Lenght>101</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2144</ID>
+    <Name>Casino</Name>
+    <Year>1995</Year>
+    <Lenght>178</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2137</ID>
+    <Name>Grave of the Fireflies</Name>
+    <Year>1988</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2132</ID>
+    <Name>The Thing</Name>
+    <Year>1982</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2076</ID>
+    <Name>Star Wars : Episode VI - Return of the Jedi</Name>
+    <Year>1983</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2190</ID>
+    <Name>The Truman Show</Name>
+    <Year>1998</Year>
+    <Lenght>103</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2014</ID>
+    <Name>Toy Story 3</Name>
+    <Year>2010</Year>
+    <Lenght>103</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2077</ID>
+    <Name>Unforgiven</Name>
+    <Year>1992</Year>
+    <Lenght>131</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2184</ID>
+    <Name>The 400 Blows</Name>
+    <Year>1959</Year>
+    <Lenght>92</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2026</ID>
+    <Name>The Matrix</Name>
+    <Year>1999</Year>
+    <Lenght>136</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2064</ID>
+    <Name>Das Boot</Name>
+    <Year>1981</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2055</ID>
+    <Name>To Kill a Mockingbird</Name>
+    <Year>1962</Year>
+    <Lenght>129</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2013</ID>
+    <Name>Star Wars : Episode IV - A New Hope</Name>
+    <Year>1977</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2099</ID>
+    <Name>Donnie Darko</Name>
+    <Year>2001</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2079</ID>
+    <Name>Jaws</Name>
+    <Year>1975</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2083</ID>
+    <Name>On the Waterfront</Name>
+    <Year>1954</Year>
+    <Lenght>108</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2150</ID>
+    <Name>The Killing</Name>
+    <Year>1956</Year>
+    <Lenght>85</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2146</ID>
+    <Name>8 1/2</Name>
+    <Year>1963</Year>
+    <Lenght>138</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2062</ID>
+    <Name>L.A. Confidential</Name>
+    <Year>1997</Year>
+    <Lenght>138</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2021</ID>
+    <Name>Raiders of the Lost Ark</Name>
+    <Year>1981</Year>
+    <Lenght>115</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2149</ID>
+    <Name>The Night of the Hunter</Name>
+    <Year>1955</Year>
+    <Lenght>92</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2109</ID>
+    <Name>There Will Be Blood</Name>
+    <Year>2007</Year>
+    <Lenght>158</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2042</ID>
+    <Name>Alien</Name>
+    <Year>1979</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2205</ID>
+    <Name>Infernal Affairs</Name>
+    <Year>2002</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2157</ID>
+    <Name>The Best Years of Our Lives</Name>
+    <Year>1946</Year>
+    <Lenght>172</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2148</ID>
+    <Name>Judgment at Nuremberg</Name>
+    <Year>1961</Year>
+    <Lenght>186</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2140</ID>
+    <Name>Ratatouille</Name>
+    <Year>2007</Year>
+    <Lenght>111</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2024</ID>
+    <Name>The Usual Suspects</Name>
+    <Year>1995</Year>
+    <Lenght>106</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2183</ID>
+    <Name>The African Queen</Name>
+    <Year>1951</Year>
+    <Lenght>105</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2046</ID>
+    <Name>WALL-E</Name>
+    <Year>2008</Year>
+    <Lenght>98</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2002</ID>
+    <Name>The Godfather Part II</Name>
+    <Year>1974</Year>
+    <Lenght>200</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2174</ID>
+    <Name>Magnolia</Name>
+    <Year>1999</Year>
+    <Lenght>188</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2128</ID>
+    <Name>Scarface</Name>
+    <Year>1983</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2171</ID>
+    <Name>King Kong</Name>
+    <Year>1933</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2019</ID>
+    <Name>The Lord of the Rings : The Fellowship of the Ring</Name>
+    <Year>2001</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2008</ID>
+    <Name>One Flew Over the Cuckoo's Nest</Name>
+    <Year>1975</Year>
+    <Lenght>133</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2158</ID>
+    <Name>The Exorcist</Name>
+    <Year>1973</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2161</ID>
+    <Name>Good Will Hunting</Name>
+    <Year>1997</Year>
+    <Lenght>126</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2023</ID>
+    <Name>Once Upon a Time in the West</Name>
+    <Year>1968</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2082</ID>
+    <Name>Slumdog Millionaire</Name>
+    <Year>2008</Year>
+    <Lenght>120</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2015</ID>
+    <Name>Casablanca</Name>
+    <Year>1942</Year>
+    <Lenght>102</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2007</ID>
+    <Name>12 Angry Men</Name>
+    <Year>1957</Year>
+    <Lenght>96</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2202</ID>
+    <Name>The Nightmare Before Christmas</Name>
+    <Year>1993</Year>
+    <Lenght>76</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2122</ID>
+    <Name>Wild Strawberries</Name>
+    <Year>1957</Year>
+    <Lenght>91</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2201</ID>
+    <Name>Crouching Tiger,Hidden Dragon</Name>
+    <Year>2000</Year>
+    <Lenght>120</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2188</ID>
+    <Name>Crash</Name>
+    <Year>2004</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2134</ID>
+    <Name>Dog Day Afternoon</Name>
+    <Year>1975</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2133</ID>
+    <Name>Amores Perros</Name>
+    <Year>2000</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2168</ID>
+    <Name>Big Fish</Name>
+    <Year>2003</Year>
+    <Lenght>125</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2020</ID>
+    <Name>Rear Window</Name>
+    <Year>1954</Year>
+    <Lenght>112</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2088</ID>
+    <Name>The Seventh Seal</Name>
+    <Year>1957</Year>
+    <Lenght>96</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2038</ID>
+    <Name>American History X</Name>
+    <Year>1998</Year>
+    <Lenght>119</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2032</ID>
+    <Name>Dr. Strangelove or How I Learned to Stop Worrying and Love the Bomb</Name>
+    <Year>1964</Year>
+    <Lenght>95</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2075</ID>
+    <Name>Indiana Jones and the Last Crusade</Name>
+    <Year>1989</Year>
+    <Lenght>127</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2179</ID>
+    <Name>Shadow of a Doubt</Name>
+    <Year>1943</Year>
+    <Lenght>108</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2078</ID>
+    <Name>Bicycle Thieves</Name>
+    <Year>1948</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2092</ID>
+    <Name>Heat</Name>
+    <Year>1995</Year>
+    <Lenght>170</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2113</ID>
+    <Name>Into the Wild</Name>
+    <Year>2007</Year>
+    <Lenght>148</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2084</ID>
+    <Name>Mr. Smith Goes to Washington</Name>
+    <Year>1939</Year>
+    <Lenght>129</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2073</ID>
+    <Name>Downfall</Name>
+    <Year>2004</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2018</ID>
+    <Name>City of God</Name>
+    <Year>2002</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2173</ID>
+    <Name>Network</Name>
+    <Year>1976</Year>
+    <Lenght>121</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2125</ID>
+    <Name>Trainspotting</Name>
+    <Year>1996</Year>
+    <Lenght>94</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2203</ID>
+    <Name>Spartacus</Name>
+    <Year>1960</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2138</ID>
+    <Name>Gandhi</Name>
+    <Year>1982</Year>
+    <Lenght>191</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2068</ID>
+    <Name>2001 : A Space Odyssey</Name>
+    <Year>1968</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2124</ID>
+    <Name>The Bourne Ultimatum</Name>
+    <Year>2007</Year>
+    <Lenght>115</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2110</ID>
+    <Name>The Manchurian Candidate</Name>
+    <Year>1962</Year>
+    <Lenght>126</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2136</ID>
+    <Name>The Wages of Fear</Name>
+    <Year>1953</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2095</ID>
+    <Name>District 9</Name>
+    <Year>2009</Year>
+    <Lenght>112</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2058</ID>
+    <Name>Eternal Sunshine of the Spotless Mind</Name>
+    <Year>2004</Year>
+    <Lenght>108</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2182</ID>
+    <Name>Pirates of the Caribbean : The Curse of the Black Pearl</Name>
+    <Year>2003</Year>
+    <Lenght>143</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2127</ID>
+    <Name>The Terminator</Name>
+    <Year>1984</Year>
+    <Lenght>108</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2120</ID>
+    <Name>Life of Brian</Name>
+    <Year>1979</Year>
+    <Lenght>94</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2069</ID>
+    <Name>Inglourious Basterds</Name>
+    <Year>2009</Year>
+    <Lenght>153</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2176</ID>
+    <Name>Mystic River</Name>
+    <Year>2003</Year>
+    <Lenght>138</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2097</ID>
+    <Name>Cool Hand Luke</Name>
+    <Year>1967</Year>
+    <Lenght>126</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2094</ID>
+    <Name>Avatar</Name>
+    <Year>2009</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2027</ID>
+    <Name>Se7en</Name>
+    <Year>1995</Year>
+    <Lenght>127</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2207</ID>
+    <Name>Rain Man</Name>
+    <Year>1988</Year>
+    <Lenght>133</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2195</ID>
+    <Name>Who's Afraid of Virginia Woolf?</Name>
+    <Year>1966</Year>
+    <Lenght>131</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2208</ID>
+    <Name>Arsenic and Old Lace</Name>
+    <Year>1944</Year>
+    <Lenght>118</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2206</ID>
+    <Name>The Adventures of Robin Hood</Name>
+    <Year>1938</Year>
+    <Lenght>102</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2198</ID>
+    <Name>Barry Lyndon</Name>
+    <Year>1975</Year>
+    <Lenght>184</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2191</ID>
+    <Name>My Neighbor Totoro</Name>
+    <Year>1988</Year>
+    <Lenght>86</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2005</ID>
+    <Name>Pulp Fiction</Name>
+    <Year>1994</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2187</ID>
+    <Name>Duck Soup</Name>
+    <Year>1933</Year>
+    <Lenght>68</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2112</ID>
+    <Name>The Lion King</Name>
+    <Year>1994</Year>
+    <Lenght>89</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2059</ID>
+    <Name>Requiem for a Dream</Name>
+    <Year>2000</Year>
+    <Lenght>100</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2017</ID>
+    <Name>Fight Club</Name>
+    <Year>1999</Year>
+    <Lenght>139</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2156</ID>
+    <Name>Sunrise : A Song of Two Humans</Name>
+    <Year>1927</Year>
+    <Lenght>106</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2107</ID>
+    <Name>Platoon</Name>
+    <Year>1986</Year>
+    <Lenght>120</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2041</ID>
+    <Name>Terminator 2 : Judgment Day</Name>
+    <Year>1991</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2119</ID>
+    <Name>It Happened One Night</Name>
+    <Year>1934</Year>
+    <Lenght>105</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2178</ID>
+    <Name>Letters from Iwo Jima</Name>
+    <Year>2006</Year>
+    <Lenght>141</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2056</ID>
+    <Name>The Lives of Others</Name>
+    <Year>2006</Year>
+    <Lenght>137</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2147</ID>
+    <Name>Diabolique</Name>
+    <Year>1955</Year>
+    <Lenght>116</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2022</ID>
+    <Name>Psycho</Name>
+    <Year>1960</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2151</ID>
+    <Name>The Princess Bride</Name>
+    <Year>1987</Year>
+    <Lenght>98</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2131</ID>
+    <Name>The Graduate</Name>
+    <Year>1967</Year>
+    <Lenght>106</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2096</ID>
+    <Name>Strangers on a Train</Name>
+    <Year>1951</Year>
+    <Lenght>92</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2163</ID>
+    <Name>The Hustler</Name>
+    <Year>1961</Year>
+    <Lenght>134</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2000</ID>
+    <Name>The Shawshank Redemption</Name>
+    <Year>1994</Year>
+    <Lenght>142</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2170</ID>
+    <Name>A Streetcar Named Desire</Name>
+    <Year>1951</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2087</ID>
+    <Name>Touch of Evil</Name>
+    <Year>1958</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2196</ID>
+    <Name>The Conversation</Name>
+    <Year>1974</Year>
+    <Lenght>113</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2177</ID>
+    <Name>Stalag 17</Name>
+    <Year>1953</Year>
+    <Lenght>116</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2016</ID>
+    <Name>Goodfellas</Name>
+    <Year>1990</Year>
+    <Lenght>146</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2114</ID>
+    <Name>The Big Sleep</Name>
+    <Year>1946</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2172</ID>
+    <Name>Let the Right One In</Name>
+    <Year>2008</Year>
+    <Lenght>115</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2061</ID>
+    <Name>Reservoir Dogs</Name>
+    <Year>1992</Year>
+    <Lenght>99</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2181</ID>
+    <Name>Rope</Name>
+    <Year>1948</Year>
+    <Lenght>80</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2040</ID>
+    <Name>Taxi Driver</Name>
+    <Year>1976</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2152</ID>
+    <Name>How to Train Your Dragon</Name>
+    <Year>2010</Year>
+    <Lenght>98</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2193</ID>
+    <Name>Planet of the Apes</Name>
+    <Year>1968</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2142</ID>
+    <Name>Star Trek</Name>
+    <Year>2009</Year>
+    <Lenght>127</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2123</ID>
+    <Name>Finding Nemo</Name>
+    <Year>2003</Year>
+    <Lenght>100</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2049</ID>
+    <Name>The Departed</Name>
+    <Year>2006</Year>
+    <Lenght>151</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2085</ID>
+    <Name>Blade Runner</Name>
+    <Year>1982</Year>
+    <Lenght>117</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2053</ID>
+    <Name>Aliens</Name>
+    <Year>1986</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2180</ID>
+    <Name>Brief Encounter</Name>
+    <Year>1945</Year>
+    <Lenght>86</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2060</ID>
+    <Name>Chinatown</Name>
+    <Year>1974</Year>
+    <Lenght>130</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2067</ID>
+    <Name>Modern Times</Name>
+    <Year>1936</Year>
+    <Lenght>87</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2111</ID>
+    <Name>Ran</Name>
+    <Year>1985</Year>
+    <Lenght>162</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2066</ID>
+    <Name>Life Is Beautiful</Name>
+    <Year>1997</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2209</ID>
+    <Name>Howl's Moving Castle</Name>
+    <Year>2004</Year>
+    <Lenght>119</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2153</ID>
+    <Name>The Wild Bunch</Name>
+    <Year>1969</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2057</ID>
+    <Name>Double Indemnity</Name>
+    <Year>1944</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2106</ID>
+    <Name>Annie Hall</Name>
+    <Year>1977</Year>
+    <Lenght>93</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2011</ID>
+    <Name>The Lord of the Rings : The Return of the King</Name>
+    <Year>2003</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2093</ID>
+    <Name>The Wizard of Oz</Name>
+    <Year>1939</Year>
+    <Lenght>101</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2192</ID>
+    <Name>Toy Story 2</Name>
+    <Year>1999</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2141</ID>
+    <Name>V for Vendetta</Name>
+    <Year>2006</Year>
+    <Lenght>132</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2054</ID>
+    <Name>M</Name>
+    <Year>1931</Year>
+    <Lenght>99</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2165</ID>
+    <Name>Ed Wood</Name>
+    <Year>1994</Year>
+    <Lenght>127</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2029</ID>
+    <Name>It's a Wonderful Life</Name>
+    <Year>1946</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2189</ID>
+    <Name>Patton</Name>
+    <Year>1970</Year>
+    <Lenght>172</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2186</ID>
+    <Name>Bonnie and Clyde</Name>
+    <Year>1967</Year>
+    <Lenght>112</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2162</ID>
+    <Name>Nights of Cabiria</Name>
+    <Year>1957</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2116</ID>
+    <Name>Toy Story</Name>
+    <Year>1995</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2103</ID>
+    <Name>The General</Name>
+    <Year>1926</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2100</ID>
+    <Name>High Noon</Name>
+    <Year>1952</Year>
+    <Lenght>85</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2039</ID>
+    <Name>American Beauty</Name>
+    <Year>1999</Year>
+    <Lenght>122</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2090</ID>
+    <Name>Princess Mononoke</Name>
+    <Year>1997</Year>
+    <Lenght>134</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2045</ID>
+    <Name>Amelie</Name>
+    <Year>2001</Year>
+    <Lenght>129</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2108</ID>
+    <Name>Yojimbo</Name>
+    <Year>1961</Year>
+    <Lenght>75</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2072</ID>
+    <Name>Amadeus</Name>
+    <Year>1984</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2051</ID>
+    <Name>The Pianist</Name>
+    <Year>2002</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2050</ID>
+    <Name>Paths of Glory</Name>
+    <Year>1957</Year>
+    <Lenght>87</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2047</ID>
+    <Name>The Shining</Name>
+    <Year>1980</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2043</ID>
+    <Name>Saving Private Ryan</Name>
+    <Year>1998</Year>
+    <Lenght>169</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2194</ID>
+    <Name>Manhattan</Name>
+    <Year>1979</Year>
+    <Lenght>96</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2117</ID>
+    <Name>Witness for the Prosecution</Name>
+    <Year>1957</Year>
+    <Lenght>111</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2102</ID>
+    <Name>Snatch.</Name>
+    <Year>2000</Year>
+    <Lenght>102</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2035</ID>
+    <Name>North by Northwest</Name>
+    <Year>1959</Year>
+    <Lenght>131</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2155</ID>
+    <Name>Kind Hearts and Coronets</Name>
+    <Year>1949</Year>
+    <Lenght>106</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2048</ID>
+    <Name>A Clockwork Orange</Name>
+    <Year>1971</Year>
+    <Lenght>136</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2166</ID>
+    <Name>The Diving Bell and the Butterfly</Name>
+    <Year>2007</Year>
+    <Lenght>112</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2145</ID>
+    <Name>The Gold Rush</Name>
+    <Year>1925</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2003</ID>
+    <Name>Inception</Name>
+    <Year>2010</Year>
+    <Lenght>148</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2012</ID>
+    <Name>Seven Samurai</Name>
+    <Year>1954</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2160</ID>
+    <Name>Children of Men</Name>
+    <Year>2006</Year>
+    <Lenght>109</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2135</ID>
+    <Name>The Secret in Their Eyes</Name>
+    <Year>2009</Year>
+    <Lenght>129</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2081</ID>
+    <Name>Die Hard</Name>
+    <Year>1988</Year>
+    <Lenght>131</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2167</ID>
+    <Name>Harvey</Name>
+    <Year>1950</Year>
+    <Lenght>104</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2044</ID>
+    <Name>Lawrence of Arabia</Name>
+    <Year>1962</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2037</ID>
+    <Name>Apocalypse Now</Name>
+    <Year>1979</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2200</ID>
+    <Name>Monsters,Inc.</Name>
+    <Year>2001</Year>
+    <Lenght>92</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2086</ID>
+    <Name>Hotel Rwanda</Name>
+    <Year>2004</Year>
+    <Lenght>121</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2031</ID>
+    <Name>Sunset Blvd.</Name>
+    <Year>1950</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2025</ID>
+    <Name>The Silence of the Lambs</Name>
+    <Year>1991</Year>
+    <Lenght>118</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2036</ID>
+    <Name>Citizen Kane</Name>
+    <Year>1941</Year>
+    <Lenght>119</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2033</ID>
+    <Name>The Professional</Name>
+    <Year>1994</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2210</ID>
+    <Name>Changeling</Name>
+    <Year>2008</Year>
+    <Lenght>141</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2185</ID>
+    <Name>Ikiru</Name>
+    <Year>1952</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2139</ID>
+    <Name>Lock, Stock and Two Smoking Barrels</Name>
+    <Year>1998</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2030</ID>
+    <Name>The Lord of the Rings : The Two Towers</Name>
+    <Year>2002</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2105</ID>
+    <Name>The Big Lebowski</Name>
+    <Year>1998</Year>
+    <Lenght>117</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2098</ID>
+    <Name>The Sixth Sense</Name>
+    <Year>1999</Year>
+    <Lenght>107</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2121</ID>
+    <Name>Butch Cassidy and the Sundance Kid</Name>
+    <Year>1969</Year>
+    <Lenght>110</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2104</ID>
+    <Name>Notorious</Name>
+    <Year>1946</Year>
+    <Lenght>101</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2071</ID>
+    <Name>Full Metal Jacket</Name>
+    <Year>1987</Year>
+    <Lenght>116</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2199</ID>
+    <Name>Roman Holiday</Name>
+    <Year>1953</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2143</ID>
+    <Name>The Grapes of Wrath</Name>
+    <Year>1940</Year>
+    <Lenght>190</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2010</ID>
+    <Name>The Dark Knight</Name>
+    <Year>2008</Year>
+    <Lenght>152</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2197</ID>
+    <Name>Anatomy of a Murder</Name>
+    <Year>1959</Year>
+    <Lenght>160</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2164</ID>
+    <Name>Rosemary's Baby</Name>
+    <Year>1968</Year>
+    <Lenght>136</Lenght>
+  </Movie>
+  <Movie>
+    <ID>2091</ID>
+    <Name>For a Few Dollars More</Name>
+    <Year>1965</Year>
+    <Lenght>132</Lenght>
+  </Movie>
+</ArrayOfMovie>

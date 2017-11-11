@@ -1,0 +1,4168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRole xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Role>
+    <filmId>2169</filmId>
+    <peopleId>671</peopleId>
+    <roleName>Apollo Creed</roleName>
+  </Role>
+  <Role>
+    <filmId>2169</filmId>
+    <peopleId>670</peopleId>
+    <roleName>Paulie Pennino</roleName>
+  </Role>
+  <Role>
+    <filmId>2169</filmId>
+    <peopleId>669</peopleId>
+    <roleName>Adrian Pennino</roleName>
+  </Role>
+  <Role>
+    <filmId>2169</filmId>
+    <peopleId>668</peopleId>
+    <roleName>Rocky Balboa</roleName>
+  </Role>
+  <Role>
+    <filmId>2006</filmId>
+    <peopleId>32</peopleId>
+    <roleName>Emilie Schindler</roleName>
+  </Role>
+  <Role>
+    <filmId>2006</filmId>
+    <peopleId>31</peopleId>
+    <roleName>Amon Goeth</roleName>
+  </Role>
+  <Role>
+    <filmId>2006</filmId>
+    <peopleId>30</peopleId>
+    <roleName>Itzhak Stern</roleName>
+  </Role>
+  <Role>
+    <filmId>2006</filmId>
+    <peopleId>29</peopleId>
+    <roleName>Oskar Schindler</roleName>
+  </Role>
+  <Role>
+    <filmId>2004</filmId>
+    <peopleId>22</peopleId>
+    <roleName>Aldo Giuffrè</roleName>
+  </Role>
+  <Role>
+    <filmId>2004</filmId>
+    <peopleId>21</peopleId>
+    <roleName>Sentenza</roleName>
+  </Role>
+  <Role>
+    <filmId>2004</filmId>
+    <peopleId>20</peopleId>
+    <roleName>Blondie</roleName>
+  </Role>
+  <Role>
+    <filmId>2004</filmId>
+    <peopleId>19</peopleId>
+    <roleName>Tuco</roleName>
+  </Role>
+  <Role>
+    <filmId>2052</filmId>
+    <peopleId>224</peopleId>
+    <roleName>Zeniba</roleName>
+  </Role>
+  <Role>
+    <filmId>2052</filmId>
+    <peopleId>223</peopleId>
+    <roleName>Mari Natsuki</roleName>
+  </Role>
+  <Role>
+    <filmId>2052</filmId>
+    <peopleId>222</peopleId>
+    <roleName>Miyu Irino</roleName>
+  </Role>
+  <Role>
+    <filmId>2052</filmId>
+    <peopleId>221</peopleId>
+    <roleName>Chihiro</roleName>
+  </Role>
+  <Role>
+    <filmId>2034</filmId>
+    <peopleId>152</peopleId>
+    <roleName>Pvt. Benjamin Buford 'Bubba' Blue</roleName>
+  </Role>
+  <Role>
+    <filmId>2034</filmId>
+    <peopleId>151</peopleId>
+    <roleName>Lt. Dan Taylor</roleName>
+  </Role>
+  <Role>
+    <filmId>2034</filmId>
+    <peopleId>150</peopleId>
+    <roleName>Jenny Curran</roleName>
+  </Role>
+  <Role>
+    <filmId>2034</filmId>
+    <peopleId>64</peopleId>
+    <roleName>Forrest Gump</roleName>
+  </Role>
+  <Role>
+    <filmId>2154</filmId>
+    <peopleId>611</peopleId>
+    <roleName>Beulah Bains</roleName>
+  </Role>
+  <Role>
+    <filmId>2154</filmId>
+    <peopleId>279</peopleId>
+    <roleName>A Tramp</roleName>
+  </Role>
+  <Role>
+    <filmId>2154</filmId>
+    <peopleId>610</peopleId>
+    <roleName>The Kid</roleName>
+  </Role>
+  <Role>
+    <filmId>2154</filmId>
+    <peopleId>609</peopleId>
+    <roleName>Edna Purviance</roleName>
+  </Role>
+  <Role>
+    <filmId>2204</filmId>
+    <peopleId>781</peopleId>
+    <roleName>Grandpa Edwin Hoover</roleName>
+  </Role>
+  <Role>
+    <filmId>2204</filmId>
+    <peopleId>780</peopleId>
+    <roleName>Dwayne</roleName>
+  </Role>
+  <Role>
+    <filmId>2204</filmId>
+    <peopleId>779</peopleId>
+    <roleName>Richard Hoover</roleName>
+  </Role>
+  <Role>
+    <filmId>2204</filmId>
+    <peopleId>778</peopleId>
+    <roleName>Olive Hoover</roleName>
+  </Role>
+  <Role>
+    <filmId>2144</filmId>
+    <peopleId>578</peopleId>
+    <roleName>Lester Diamond</roleName>
+  </Role>
+  <Role>
+    <filmId>2144</filmId>
+    <peopleId>75</peopleId>
+    <roleName>Nicky Santoro</roleName>
+  </Role>
+  <Role>
+    <filmId>2144</filmId>
+    <peopleId>577</peopleId>
+    <roleName>Ginger McKenna</roleName>
+  </Role>
+  <Role>
+    <filmId>2144</filmId>
+    <peopleId>12</peopleId>
+    <roleName>Sam 'Ace' Rothstein</roleName>
+  </Role>
+  <Role>
+    <filmId>2076</filmId>
+    <peopleId>47</peopleId>
+    <roleName>Lando Calrissian</roleName>
+  </Role>
+  <Role>
+    <filmId>2076</filmId>
+    <peopleId>46</peopleId>
+    <roleName>Princess Leia</roleName>
+  </Role>
+  <Role>
+    <filmId>2076</filmId>
+    <peopleId>45</peopleId>
+    <roleName>Han Solo</roleName>
+  </Role>
+  <Role>
+    <filmId>2076</filmId>
+    <peopleId>44</peopleId>
+    <roleName>Luke Skywalker</roleName>
+  </Role>
+  <Role>
+    <filmId>2190</filmId>
+    <peopleId>736</peopleId>
+    <roleName>Noah Emmerich</roleName>
+  </Role>
+  <Role>
+    <filmId>2190</filmId>
+    <peopleId>735</peopleId>
+    <roleName>Meryl Burbank</roleName>
+  </Role>
+  <Role>
+    <filmId>2190</filmId>
+    <peopleId>248</peopleId>
+    <roleName>Truman Burbank</roleName>
+  </Role>
+  <Role>
+    <filmId>2014</filmId>
+    <peopleId>67</peopleId>
+    <roleName>Lotso</roleName>
+  </Role>
+  <Role>
+    <filmId>2014</filmId>
+    <peopleId>66</peopleId>
+    <roleName>Jessie</roleName>
+  </Role>
+  <Role>
+    <filmId>2014</filmId>
+    <peopleId>65</peopleId>
+    <roleName>Buzz Lightyear</roleName>
+  </Role>
+  <Role>
+    <filmId>2014</filmId>
+    <peopleId>64</peopleId>
+    <roleName>Woody</roleName>
+  </Role>
+  <Role>
+    <filmId>2077</filmId>
+    <peopleId>317</peopleId>
+    <roleName>English Bob</roleName>
+  </Role>
+  <Role>
+    <filmId>2077</filmId>
+    <peopleId>2</peopleId>
+    <roleName>Ned Logan</roleName>
+  </Role>
+  <Role>
+    <filmId>2077</filmId>
+    <peopleId>316</peopleId>
+    <roleName>Little Bill Daggett</roleName>
+  </Role>
+  <Role>
+    <filmId>2077</filmId>
+    <peopleId>20</peopleId>
+    <roleName>William 'Bill' Munny</roleName>
+  </Role>
+  <Role>
+    <filmId>2026</filmId>
+    <peopleId>121</peopleId>
+    <roleName>Agent Smith</roleName>
+  </Role>
+  <Role>
+    <filmId>2026</filmId>
+    <peopleId>120</peopleId>
+    <roleName>Trinity</roleName>
+  </Role>
+  <Role>
+    <filmId>2026</filmId>
+    <peopleId>119</peopleId>
+    <roleName>Morpheus</roleName>
+  </Role>
+  <Role>
+    <filmId>2026</filmId>
+    <peopleId>118</peopleId>
+    <roleName>Neo</roleName>
+  </Role>
+  <Role>
+    <filmId>2150</filmId>
+    <peopleId>596</peopleId>
+    <roleName>Marvin Unger</roleName>
+  </Role>
+  <Role>
+    <filmId>2150</filmId>
+    <peopleId>595</peopleId>
+    <roleName>Val Cannon</roleName>
+  </Role>
+  <Role>
+    <filmId>2150</filmId>
+    <peopleId>594</peopleId>
+    <roleName>Fay</roleName>
+  </Role>
+  <Role>
+    <filmId>2150</filmId>
+    <peopleId>143</peopleId>
+    <roleName>Johnny Clay</roleName>
+  </Role>
+  <Role>
+    <filmId>2062</filmId>
+    <peopleId>263</peopleId>
+    <roleName>Dudley Smith</roleName>
+  </Role>
+  <Role>
+    <filmId>2062</filmId>
+    <peopleId>124</peopleId>
+    <roleName>Ed Exley</roleName>
+  </Role>
+  <Role>
+    <filmId>2062</filmId>
+    <peopleId>262</peopleId>
+    <roleName>Bud White</roleName>
+  </Role>
+  <Role>
+    <filmId>2062</filmId>
+    <peopleId>169</peopleId>
+    <roleName>Jack Vincennes</roleName>
+  </Role>
+  <Role>
+    <filmId>2149</filmId>
+    <peopleId>593</peopleId>
+    <roleName>Birdie Steptoe</roleName>
+  </Role>
+  <Role>
+    <filmId>2149</filmId>
+    <peopleId>592</peopleId>
+    <roleName>Rachel Cooper</roleName>
+  </Role>
+  <Role>
+    <filmId>2149</filmId>
+    <peopleId>591</peopleId>
+    <roleName>Willa Harper</roleName>
+  </Role>
+  <Role>
+    <filmId>2149</filmId>
+    <peopleId>590</peopleId>
+    <roleName>Harry Powell</roleName>
+  </Role>
+  <Role>
+    <filmId>2140</filmId>
+    <peopleId>564</peopleId>
+    <roleName>Django</roleName>
+  </Role>
+  <Role>
+    <filmId>2140</filmId>
+    <peopleId>563</peopleId>
+    <roleName>Linguini</roleName>
+  </Role>
+  <Role>
+    <filmId>2140</filmId>
+    <peopleId>562</peopleId>
+    <roleName>Skinner</roleName>
+  </Role>
+  <Role>
+    <filmId>2140</filmId>
+    <peopleId>561</peopleId>
+    <roleName>Remy</roleName>
+  </Role>
+  <Role>
+    <filmId>2046</filmId>
+    <peopleId>200</peopleId>
+    <roleName>Captain</roleName>
+  </Role>
+  <Role>
+    <filmId>2046</filmId>
+    <peopleId>199</peopleId>
+    <roleName>EVE</roleName>
+  </Role>
+  <Role>
+    <filmId>2046</filmId>
+    <peopleId>198</peopleId>
+    <roleName>WALL-E/M-O</roleName>
+  </Role>
+  <Role>
+    <filmId>2128</filmId>
+    <peopleId>513</peopleId>
+    <roleName>Gina Montana</roleName>
+  </Role>
+  <Role>
+    <filmId>2128</filmId>
+    <peopleId>512</peopleId>
+    <roleName>Elvira Hancock</roleName>
+  </Role>
+  <Role>
+    <filmId>2128</filmId>
+    <peopleId>511</peopleId>
+    <roleName>Manny Ribera</roleName>
+  </Role>
+  <Role>
+    <filmId>2128</filmId>
+    <peopleId>7</peopleId>
+    <roleName>Tony Montana</roleName>
+  </Role>
+  <Role>
+    <filmId>2171</filmId>
+    <peopleId>676</peopleId>
+    <roleName>Captain Englehorn</roleName>
+  </Role>
+  <Role>
+    <filmId>2171</filmId>
+    <peopleId>675</peopleId>
+    <roleName>John Driscoll</roleName>
+  </Role>
+  <Role>
+    <filmId>2171</filmId>
+    <peopleId>674</peopleId>
+    <roleName>Carl Denham</roleName>
+  </Role>
+  <Role>
+    <filmId>2171</filmId>
+    <peopleId>673</peopleId>
+    <roleName>Ann Darrow</roleName>
+  </Role>
+  <Role>
+    <filmId>2158</filmId>
+    <peopleId>626</peopleId>
+    <roleName>Sharon</roleName>
+  </Role>
+  <Role>
+    <filmId>2158</filmId>
+    <peopleId>36</peopleId>
+    <roleName>Lt. Kinderman</roleName>
+  </Role>
+  <Role>
+    <filmId>2158</filmId>
+    <peopleId>358</peopleId>
+    <roleName>Father Merrin</roleName>
+  </Role>
+  <Role>
+    <filmId>2158</filmId>
+    <peopleId>252</peopleId>
+    <roleName>Chris MacNeil</roleName>
+  </Role>
+  <Role>
+    <filmId>2023</filmId>
+    <peopleId>105</peopleId>
+    <roleName>Harmonica</roleName>
+  </Role>
+  <Role>
+    <filmId>2023</filmId>
+    <peopleId>104</peopleId>
+    <roleName>Cheyenne</roleName>
+  </Role>
+  <Role>
+    <filmId>2023</filmId>
+    <peopleId>103</peopleId>
+    <roleName>Jill McBain</roleName>
+  </Role>
+  <Role>
+    <filmId>2023</filmId>
+    <peopleId>102</peopleId>
+    <roleName>Frank</roleName>
+  </Role>
+  <Role>
+    <filmId>2007</filmId>
+    <peopleId>37</peopleId>
+    <roleName>Juror #4</roleName>
+  </Role>
+  <Role>
+    <filmId>2007</filmId>
+    <peopleId>36</peopleId>
+    <roleName>Juror #3</roleName>
+  </Role>
+  <Role>
+    <filmId>2007</filmId>
+    <peopleId>35</peopleId>
+    <roleName>Juror #2</roleName>
+  </Role>
+  <Role>
+    <filmId>2007</filmId>
+    <peopleId>34</peopleId>
+    <roleName>Juror #1</roleName>
+  </Role>
+  <Role>
+    <filmId>2201</filmId>
+    <peopleId>769</peopleId>
+    <roleName>Lo 'Dark Cloud'</roleName>
+  </Role>
+  <Role>
+    <filmId>2201</filmId>
+    <peopleId>768</peopleId>
+    <roleName>Jen Yu Mandarin version)</roleName>
+  </Role>
+  <Role>
+    <filmId>2201</filmId>
+    <peopleId>767</peopleId>
+    <roleName>Yu Shu Lien</roleName>
+  </Role>
+  <Role>
+    <filmId>2201</filmId>
+    <peopleId>766</peopleId>
+    <roleName>Master Li Mu Bai</roleName>
+  </Role>
+  <Role>
+    <filmId>2134</filmId>
+    <peopleId>537</peopleId>
+    <roleName>Leon Shermer</roleName>
+  </Role>
+  <Role>
+    <filmId>2134</filmId>
+    <peopleId>536</peopleId>
+    <roleName>Det. Sgt. Eugene Moretti</roleName>
+  </Role>
+  <Role>
+    <filmId>2134</filmId>
+    <peopleId>410</peopleId>
+    <roleName>Sal</roleName>
+  </Role>
+  <Role>
+    <filmId>2134</filmId>
+    <peopleId>7</peopleId>
+    <roleName>Sonny Wortzik</roleName>
+  </Role>
+  <Role>
+    <filmId>2113</filmId>
+    <peopleId>461</peopleId>
+    <roleName>Carine McCandless</roleName>
+  </Role>
+  <Role>
+    <filmId>2113</filmId>
+    <peopleId>460</peopleId>
+    <roleName>Walt McCandless</roleName>
+  </Role>
+  <Role>
+    <filmId>2113</filmId>
+    <peopleId>459</peopleId>
+    <roleName>Billie McCandless</roleName>
+  </Role>
+  <Role>
+    <filmId>2113</filmId>
+    <peopleId>458</peopleId>
+    <roleName>Chris McCandless</roleName>
+  </Role>
+  <Role>
+    <filmId>2084</filmId>
+    <peopleId>343</peopleId>
+    <roleName>Jim Taylor</roleName>
+  </Role>
+  <Role>
+    <filmId>2084</filmId>
+    <peopleId>72</peopleId>
+    <roleName>Senator Joseph Harrison Paine</roleName>
+  </Role>
+  <Role>
+    <filmId>2084</filmId>
+    <peopleId>91</peopleId>
+    <roleName>Jefferson Smith</roleName>
+  </Role>
+  <Role>
+    <filmId>2084</filmId>
+    <peopleId>342</peopleId>
+    <roleName>Clarissa Saunders</roleName>
+  </Role>
+  <Role>
+    <filmId>2018</filmId>
+    <peopleId>87</peopleId>
+    <roleName>Dadinho - Li'l Dice</roleName>
+  </Role>
+  <Role>
+    <filmId>2018</filmId>
+    <peopleId>86</peopleId>
+    <roleName>Bene - Benny</roleName>
+  </Role>
+  <Role>
+    <filmId>2018</filmId>
+    <peopleId>85</peopleId>
+    <roleName>Ze Pequeno - Li'l Ze</roleName>
+  </Role>
+  <Role>
+    <filmId>2018</filmId>
+    <peopleId>84</peopleId>
+    <roleName>Buscape - Rocket</roleName>
+  </Role>
+  <Role>
+    <filmId>2136</filmId>
+    <peopleId>547</peopleId>
+    <roleName>William Tubbs</roleName>
+  </Role>
+  <Role>
+    <filmId>2136</filmId>
+    <peopleId>546</peopleId>
+    <roleName>Bimba</roleName>
+  </Role>
+  <Role>
+    <filmId>2136</filmId>
+    <peopleId>545</peopleId>
+    <roleName>Folco Lulli</roleName>
+  </Role>
+  <Role>
+    <filmId>2136</filmId>
+    <peopleId>544</peopleId>
+    <roleName>Mario</roleName>
+  </Role>
+  <Role>
+    <filmId>2182</filmId>
+    <peopleId>708</peopleId>
+    <roleName>Elizabeth Swann</roleName>
+  </Role>
+  <Role>
+    <filmId>2182</filmId>
+    <peopleId>707</peopleId>
+    <roleName>Will Turner</roleName>
+  </Role>
+  <Role>
+    <filmId>2182</filmId>
+    <peopleId>706</peopleId>
+    <roleName>Barbossa</roleName>
+  </Role>
+  <Role>
+    <filmId>2182</filmId>
+    <peopleId>651</peopleId>
+    <roleName>Jack Sparrow</roleName>
+  </Role>
+  <Role>
+    <filmId>2120</filmId>
+    <peopleId>487</peopleId>
+    <roleName>Centurion</roleName>
+  </Role>
+  <Role>
+    <filmId>2120</filmId>
+    <peopleId>486</peopleId>
+    <roleName>Wise Man #1</roleName>
+  </Role>
+  <Role>
+    <filmId>2120</filmId>
+    <peopleId>485</peopleId>
+    <roleName>Biggus Dickus</roleName>
+  </Role>
+  <Role>
+    <filmId>2120</filmId>
+    <peopleId>484</peopleId>
+    <roleName>Wise Man #2</roleName>
+  </Role>
+  <Role>
+    <filmId>2156</filmId>
+    <peopleId>619</peopleId>
+    <roleName>The Maid</roleName>
+  </Role>
+  <Role>
+    <filmId>2156</filmId>
+    <peopleId>618</peopleId>
+    <roleName>The Woman From the City</roleName>
+  </Role>
+  <Role>
+    <filmId>2156</filmId>
+    <peopleId>617</peopleId>
+    <roleName>The Wife</roleName>
+  </Role>
+  <Role>
+    <filmId>2156</filmId>
+    <peopleId>616</peopleId>
+    <roleName>The Man</roleName>
+  </Role>
+  <Role>
+    <filmId>2056</filmId>
+    <peopleId>242</peopleId>
+    <roleName>Oberstleutnant Anton Grubitz</roleName>
+  </Role>
+  <Role>
+    <filmId>2056</filmId>
+    <peopleId>241</peopleId>
+    <roleName>Georg Dreyman</roleName>
+  </Role>
+  <Role>
+    <filmId>2056</filmId>
+    <peopleId>240</peopleId>
+    <roleName>Hauptmann Gerd Wiesler</roleName>
+  </Role>
+  <Role>
+    <filmId>2056</filmId>
+    <peopleId>239</peopleId>
+    <roleName>Christa-Maria Sieland</roleName>
+  </Role>
+  <Role>
+    <filmId>2022</filmId>
+    <peopleId>101</peopleId>
+    <roleName>Marion Crane</roleName>
+  </Role>
+  <Role>
+    <filmId>2022</filmId>
+    <peopleId>100</peopleId>
+    <roleName>Sam Loomis</roleName>
+  </Role>
+  <Role>
+    <filmId>2022</filmId>
+    <peopleId>99</peopleId>
+    <roleName>Lila Crane</roleName>
+  </Role>
+  <Role>
+    <filmId>2022</filmId>
+    <peopleId>98</peopleId>
+    <roleName>Norman Bates</roleName>
+  </Role>
+  <Role>
+    <filmId>2151</filmId>
+    <peopleId>599</peopleId>
+    <roleName>Count Tyrone Rugen</roleName>
+  </Role>
+  <Role>
+    <filmId>2151</filmId>
+    <peopleId>537</peopleId>
+    <roleName>Prince Humperdinck</roleName>
+  </Role>
+  <Role>
+    <filmId>2151</filmId>
+    <peopleId>598</peopleId>
+    <roleName>Inigo Montoya</roleName>
+  </Role>
+  <Role>
+    <filmId>2151</filmId>
+    <peopleId>597</peopleId>
+    <roleName>Westley</roleName>
+  </Role>
+  <Role>
+    <filmId>2131</filmId>
+    <peopleId>527</peopleId>
+    <roleName>Mr. Braddock</roleName>
+  </Role>
+  <Role>
+    <filmId>2131</filmId>
+    <peopleId>490</peopleId>
+    <roleName>Elaine Robinson</roleName>
+  </Role>
+  <Role>
+    <filmId>2131</filmId>
+    <peopleId>526</peopleId>
+    <roleName>Ben Braddock</roleName>
+  </Role>
+  <Role>
+    <filmId>2131</filmId>
+    <peopleId>525</peopleId>
+    <roleName>Mrs. Robinson</roleName>
+  </Role>
+  <Role>
+    <filmId>2087</filmId>
+    <peopleId>353</peopleId>
+    <roleName>Police Sergeant Pete Menzies</roleName>
+  </Role>
+  <Role>
+    <filmId>2087</filmId>
+    <peopleId>157</peopleId>
+    <roleName>Police Captain Hank Quinlan</roleName>
+  </Role>
+  <Role>
+    <filmId>2087</filmId>
+    <peopleId>101</peopleId>
+    <roleName>Susan 'Susie' Vargas</roleName>
+  </Role>
+  <Role>
+    <filmId>2087</filmId>
+    <peopleId>352</peopleId>
+    <roleName>Ramon Miguel 'Mike' Vargas</roleName>
+  </Role>
+  <Role>
+    <filmId>2177</filmId>
+    <peopleId>693</peopleId>
+    <roleName>Richard Erdman</roleName>
+  </Role>
+  <Role>
+    <filmId>2177</filmId>
+    <peopleId>692</peopleId>
+    <roleName>Robert Strauss</roleName>
+  </Role>
+  <Role>
+    <filmId>2177</filmId>
+    <peopleId>691</peopleId>
+    <roleName>Lt. James Dunbar</roleName>
+  </Role>
+  <Role>
+    <filmId>2177</filmId>
+    <peopleId>135</peopleId>
+    <roleName>Sgt. J.J. Sefton</roleName>
+  </Role>
+  <Role>
+    <filmId>2123</filmId>
+    <peopleId>498</peopleId>
+    <roleName>Gill</roleName>
+  </Role>
+  <Role>
+    <filmId>2123</filmId>
+    <peopleId>497</peopleId>
+    <roleName>Nemo</roleName>
+  </Role>
+  <Role>
+    <filmId>2123</filmId>
+    <peopleId>496</peopleId>
+    <roleName>Dory</roleName>
+  </Role>
+  <Role>
+    <filmId>2123</filmId>
+    <peopleId>495</peopleId>
+    <roleName>Marlin</roleName>
+  </Role>
+  <Role>
+    <filmId>2180</filmId>
+    <peopleId>702</peopleId>
+    <roleName>Myrtle Bagot</roleName>
+  </Role>
+  <Role>
+    <filmId>2180</filmId>
+    <peopleId>701</peopleId>
+    <roleName>Albert Godby</roleName>
+  </Role>
+  <Role>
+    <filmId>2180</filmId>
+    <peopleId>266</peopleId>
+    <roleName>Dr. Alec Harvey</roleName>
+  </Role>
+  <Role>
+    <filmId>2180</filmId>
+    <peopleId>700</peopleId>
+    <roleName>Laura Jesson</roleName>
+  </Role>
+  <Role>
+    <filmId>2066</filmId>
+    <peopleId>278</peopleId>
+    <roleName>Eliseo Orefice</roleName>
+  </Role>
+  <Role>
+    <filmId>2066</filmId>
+    <peopleId>277</peopleId>
+    <roleName>Giosue Orefice</roleName>
+  </Role>
+  <Role>
+    <filmId>2066</filmId>
+    <peopleId>276</peopleId>
+    <roleName>Dora</roleName>
+  </Role>
+  <Role>
+    <filmId>2066</filmId>
+    <peopleId>275</peopleId>
+    <roleName>Guido Orefice</roleName>
+  </Role>
+  <Role>
+    <filmId>2057</filmId>
+    <peopleId>246</peopleId>
+    <roleName>Mr. Jackson</roleName>
+  </Role>
+  <Role>
+    <filmId>2057</filmId>
+    <peopleId>245</peopleId>
+    <roleName>Barton Keyes</roleName>
+  </Role>
+  <Role>
+    <filmId>2057</filmId>
+    <peopleId>244</peopleId>
+    <roleName>Phyllis Dietrichson</roleName>
+  </Role>
+  <Role>
+    <filmId>2057</filmId>
+    <peopleId>243</peopleId>
+    <roleName>Walter Neff</roleName>
+  </Role>
+  <Role>
+    <filmId>2011</filmId>
+    <peopleId>55</peopleId>
+    <roleName>Gondorian Soldier 3</roleName>
+  </Role>
+  <Role>
+    <filmId>2011</filmId>
+    <peopleId>54</peopleId>
+    <roleName>Sam</roleName>
+  </Role>
+  <Role>
+    <filmId>2011</filmId>
+    <peopleId>53</peopleId>
+    <roleName>Elanor Gamgee</roleName>
+  </Role>
+  <Role>
+    <filmId>2011</filmId>
+    <peopleId>52</peopleId>
+    <roleName>Everard Proudfoot</roleName>
+  </Role>
+  <Role>
+    <filmId>2165</filmId>
+    <peopleId>654</peopleId>
+    <roleName>Kathy O'Hara</roleName>
+  </Role>
+  <Role>
+    <filmId>2165</filmId>
+    <peopleId>653</peopleId>
+    <roleName>Dolores Fuller</roleName>
+  </Role>
+  <Role>
+    <filmId>2165</filmId>
+    <peopleId>652</peopleId>
+    <roleName>Bela Lugosi</roleName>
+  </Role>
+  <Role>
+    <filmId>2165</filmId>
+    <peopleId>651</peopleId>
+    <roleName>Ed Wood</roleName>
+  </Role>
+  <Role>
+    <filmId>2116</filmId>
+    <peopleId>470</peopleId>
+    <roleName>Slinky Dog</roleName>
+  </Role>
+  <Role>
+    <filmId>2116</filmId>
+    <peopleId>469</peopleId>
+    <roleName>Mr. Potato Head</roleName>
+  </Role>
+  <Role>
+    <filmId>2116</filmId>
+    <peopleId>65</peopleId>
+    <roleName>Buzz Lightyear</roleName>
+  </Role>
+  <Role>
+    <filmId>2116</filmId>
+    <peopleId>64</peopleId>
+    <roleName>Woody</roleName>
+  </Role>
+  <Role>
+    <filmId>2103</filmId>
+    <peopleId>421</peopleId>
+    <roleName>A Southern General</roleName>
+  </Role>
+  <Role>
+    <filmId>2103</filmId>
+    <peopleId>420</peopleId>
+    <roleName>General Thatcher</roleName>
+  </Role>
+  <Role>
+    <filmId>2103</filmId>
+    <peopleId>419</peopleId>
+    <roleName>Captain Anderson</roleName>
+  </Role>
+  <Role>
+    <filmId>2103</filmId>
+    <peopleId>418</peopleId>
+    <roleName>Annabelle Lee</roleName>
+  </Role>
+  <Role>
+    <filmId>2100</filmId>
+    <peopleId>408</peopleId>
+    <roleName>Helen Ramirez</roleName>
+  </Role>
+  <Role>
+    <filmId>2100</filmId>
+    <peopleId>407</peopleId>
+    <roleName>Deputy Marshal Harvey Pell</roleName>
+  </Role>
+  <Role>
+    <filmId>2100</filmId>
+    <peopleId>130</peopleId>
+    <roleName>Mayor Jonas Henderson</roleName>
+  </Role>
+  <Role>
+    <filmId>2100</filmId>
+    <peopleId>406</peopleId>
+    <roleName>Marshal Will Kane</roleName>
+  </Role>
+  <Role>
+    <filmId>2045</filmId>
+    <peopleId>196</peopleId>
+    <roleName>Amandine Poulain</roleName>
+  </Role>
+  <Role>
+    <filmId>2045</filmId>
+    <peopleId>195</peopleId>
+    <roleName>Raphael Poulain</roleName>
+  </Role>
+  <Role>
+    <filmId>2045</filmId>
+    <peopleId>194</peopleId>
+    <roleName>Nino Quincampoix</roleName>
+  </Role>
+  <Role>
+    <filmId>2045</filmId>
+    <peopleId>193</peopleId>
+    <roleName>Amelie Poulain</roleName>
+  </Role>
+  <Role>
+    <filmId>2108</filmId>
+    <peopleId>437</peopleId>
+    <roleName>Seizaburo Kawazu</roleName>
+  </Role>
+  <Role>
+    <filmId>2108</filmId>
+    <peopleId>436</peopleId>
+    <roleName>Isuzu Yamada</roleName>
+  </Role>
+  <Role>
+    <filmId>2108</filmId>
+    <peopleId>435</peopleId>
+    <roleName>Tatsuya Nakadai</roleName>
+  </Role>
+  <Role>
+    <filmId>2108</filmId>
+    <peopleId>57</peopleId>
+    <roleName>Sanjuro Kuwabatake</roleName>
+  </Role>
+  <Role>
+    <filmId>2145</filmId>
+    <peopleId>281</peopleId>
+    <roleName>Malcolm Waite</roleName>
+  </Role>
+  <Role>
+    <filmId>2145</filmId>
+    <peopleId>580</peopleId>
+    <roleName>Black Larsen</roleName>
+  </Role>
+  <Role>
+    <filmId>2145</filmId>
+    <peopleId>579</peopleId>
+    <roleName>Big Jim McKay</roleName>
+  </Role>
+  <Role>
+    <filmId>2145</filmId>
+    <peopleId>279</peopleId>
+    <roleName>The Lone Prospector</roleName>
+  </Role>
+  <Role>
+    <filmId>2160</filmId>
+    <peopleId>634</peopleId>
+    <roleName>Newsreader</roleName>
+  </Role>
+  <Role>
+    <filmId>2160</filmId>
+    <peopleId>327</peopleId>
+    <roleName>Jasper</roleName>
+  </Role>
+  <Role>
+    <filmId>2160</filmId>
+    <peopleId>633</peopleId>
+    <roleName>Baby Diego</roleName>
+  </Role>
+  <Role>
+    <filmId>2160</filmId>
+    <peopleId>632</peopleId>
+    <roleName>Theo Faron</roleName>
+  </Role>
+  <Role>
+    <filmId>2167</filmId>
+    <peopleId>663</peopleId>
+    <roleName>Dr. Sanderson</roleName>
+  </Role>
+  <Role>
+    <filmId>2167</filmId>
+    <peopleId>662</peopleId>
+    <roleName>Miss Kelly - Nurse</roleName>
+  </Role>
+  <Role>
+    <filmId>2167</filmId>
+    <peopleId>661</peopleId>
+    <roleName>Veta Louise Simmons</roleName>
+  </Role>
+  <Role>
+    <filmId>2167</filmId>
+    <peopleId>91</peopleId>
+    <roleName>Elwood P. Dowd</roleName>
+  </Role>
+  <Role>
+    <filmId>2200</filmId>
+    <peopleId>764</peopleId>
+    <roleName>Boo/Mary</roleName>
+  </Role>
+  <Role>
+    <filmId>2200</filmId>
+    <peopleId>763</peopleId>
+    <roleName>Mike Wazowski</roleName>
+  </Role>
+  <Role>
+    <filmId>2200</filmId>
+    <peopleId>424</peopleId>
+    <roleName>James P. "Sulley" Sullivan</roleName>
+  </Role>
+  <Role>
+    <filmId>2036</filmId>
+    <peopleId>161</peopleId>
+    <roleName>Emily Monroe Norton Kane</roleName>
+  </Role>
+  <Role>
+    <filmId>2036</filmId>
+    <peopleId>160</peopleId>
+    <roleName>Mary Kane</roleName>
+  </Role>
+  <Role>
+    <filmId>2036</filmId>
+    <peopleId>159</peopleId>
+    <roleName>Susan Alexander Kane</roleName>
+  </Role>
+  <Role>
+    <filmId>2036</filmId>
+    <peopleId>158</peopleId>
+    <roleName>Jedediah Leland</roleName>
+  </Role>
+  <Role>
+    <filmId>2033</filmId>
+    <peopleId>148</peopleId>
+    <roleName>Tony</roleName>
+  </Role>
+  <Role>
+    <filmId>2033</filmId>
+    <peopleId>147</peopleId>
+    <roleName>Mathilda</roleName>
+  </Role>
+  <Role>
+    <filmId>2033</filmId>
+    <peopleId>146</peopleId>
+    <roleName>Stansfield</roleName>
+  </Role>
+  <Role>
+    <filmId>2033</filmId>
+    <peopleId>145</peopleId>
+    <roleName>Leon</roleName>
+  </Role>
+  <Role>
+    <filmId>2210</filmId>
+    <peopleId>805</peopleId>
+    <roleName>Detective Lester Ybarra</roleName>
+  </Role>
+  <Role>
+    <filmId>2210</filmId>
+    <peopleId>804</peopleId>
+    <roleName>Sandy</roleName>
+  </Role>
+  <Role>
+    <filmId>2210</filmId>
+    <peopleId>803</peopleId>
+    <roleName>Walter Collins</roleName>
+  </Role>
+  <Role>
+    <filmId>2210</filmId>
+    <peopleId>802</peopleId>
+    <roleName>Christine Collins</roleName>
+  </Role>
+  <Role>
+    <filmId>2121</filmId>
+    <peopleId>491</peopleId>
+    <roleName>Percy Garris</roleName>
+  </Role>
+  <Role>
+    <filmId>2121</filmId>
+    <peopleId>490</peopleId>
+    <roleName>Etta Place</roleName>
+  </Role>
+  <Role>
+    <filmId>2121</filmId>
+    <peopleId>489</peopleId>
+    <roleName>The Sundance Kid</roleName>
+  </Role>
+  <Role>
+    <filmId>2121</filmId>
+    <peopleId>392</peopleId>
+    <roleName>Butch Cassidy</roleName>
+  </Role>
+  <Role>
+    <filmId>2197</filmId>
+    <peopleId>754</peopleId>
+    <roleName>Parnell Emmett McCarthy</roleName>
+  </Role>
+  <Role>
+    <filmId>2197</filmId>
+    <peopleId>753</peopleId>
+    <roleName>Lt. Frederick Manion</roleName>
+  </Role>
+  <Role>
+    <filmId>2197</filmId>
+    <peopleId>752</peopleId>
+    <roleName>Laura Manion</roleName>
+  </Role>
+  <Role>
+    <filmId>2197</filmId>
+    <peopleId>91</peopleId>
+    <roleName>Paul Biegler</roleName>
+  </Role>
+  <Role>
+    <filmId>2164</filmId>
+    <peopleId>649</peopleId>
+    <roleName>Roman Castevet</roleName>
+  </Role>
+  <Role>
+    <filmId>2164</filmId>
+    <peopleId>648</peopleId>
+    <roleName>Minnie Castevet</roleName>
+  </Role>
+  <Role>
+    <filmId>2164</filmId>
+    <peopleId>647</peopleId>
+    <roleName>Guy Woodhouse</roleName>
+  </Role>
+  <Role>
+    <filmId>2164</filmId>
+    <peopleId>646</peopleId>
+    <roleName>Rosemary Woodhouse</roleName>
+  </Role>
+  <Role>
+    <filmId>2065</filmId>
+    <peopleId>274</peopleId>
+    <roleName>Cody</roleName>
+  </Role>
+  <Role>
+    <filmId>2065</filmId>
+    <peopleId>273</peopleId>
+    <roleName>Curtin</roleName>
+  </Role>
+  <Role>
+    <filmId>2065</filmId>
+    <peopleId>272</peopleId>
+    <roleName>Howard</roleName>
+  </Role>
+  <Role>
+    <filmId>2065</filmId>
+    <peopleId>69</peopleId>
+    <roleName>Dobbs</roleName>
+  </Role>
+  <Role>
+    <filmId>2080</filmId>
+    <peopleId>29</peopleId>
+    <roleName>Henri Ducard</roleName>
+  </Role>
+  <Role>
+    <filmId>2080</filmId>
+    <peopleId>327</peopleId>
+    <roleName>Alfred</roleName>
+  </Role>
+  <Role>
+    <filmId>2080</filmId>
+    <peopleId>48</peopleId>
+    <roleName>Bruce Wayne / Batman</roleName>
+  </Role>
+  <Role>
+    <filmId>2101</filmId>
+    <peopleId>412</peopleId>
+    <roleName>Nick</roleName>
+  </Role>
+  <Role>
+    <filmId>2101</filmId>
+    <peopleId>411</peopleId>
+    <roleName>Steven</roleName>
+  </Role>
+  <Role>
+    <filmId>2101</filmId>
+    <peopleId>410</peopleId>
+    <roleName>Stan</roleName>
+  </Role>
+  <Role>
+    <filmId>2101</filmId>
+    <peopleId>12</peopleId>
+    <roleName>Michael</roleName>
+  </Role>
+  <Role>
+    <filmId>2118</filmId>
+    <peopleId>478</peopleId>
+    <roleName>Lenny</roleName>
+  </Role>
+  <Role>
+    <filmId>2118</filmId>
+    <peopleId>477</peopleId>
+    <roleName>Stephanie</roleName>
+  </Role>
+  <Role>
+    <filmId>2118</filmId>
+    <peopleId>476</peopleId>
+    <roleName>Cassidy</roleName>
+  </Role>
+  <Role>
+    <filmId>2118</filmId>
+    <peopleId>475</peopleId>
+    <roleName>Randy</roleName>
+  </Role>
+  <Role>
+    <filmId>2001</filmId>
+    <peopleId>9</peopleId>
+    <roleName>Peter Clemenza</roleName>
+  </Role>
+  <Role>
+    <filmId>2001</filmId>
+    <peopleId>8</peopleId>
+    <roleName>Santino 'Sonny' Corleone</roleName>
+  </Role>
+  <Role>
+    <filmId>2001</filmId>
+    <peopleId>7</peopleId>
+    <roleName>Michael Corleone</roleName>
+  </Role>
+  <Role>
+    <filmId>2001</filmId>
+    <peopleId>6</peopleId>
+    <roleName>Don Vito Corleone</roleName>
+  </Role>
+  <Role>
+    <filmId>2137</filmId>
+    <peopleId>552</peopleId>
+    <roleName>Dan Green</roleName>
+  </Role>
+  <Role>
+    <filmId>2137</filmId>
+    <peopleId>551</peopleId>
+    <roleName>Shannon Conley</roleName>
+  </Role>
+  <Role>
+    <filmId>2137</filmId>
+    <peopleId>550</peopleId>
+    <roleName>Akemi Yamaguchi</roleName>
+  </Role>
+  <Role>
+    <filmId>2137</filmId>
+    <peopleId>549</peopleId>
+    <roleName>Ayano Shiraishi</roleName>
+  </Role>
+  <Role>
+    <filmId>2064</filmId>
+    <peopleId>271</peopleId>
+    <roleName>Martin Semmelrogge</roleName>
+  </Role>
+  <Role>
+    <filmId>2064</filmId>
+    <peopleId>270</peopleId>
+    <roleName>Chief Engineer Fritz Grade - Der Leitende-Der LI</roleName>
+  </Role>
+  <Role>
+    <filmId>2064</filmId>
+    <peopleId>269</peopleId>
+    <roleName>Lt. Werner - Correspondent</roleName>
+  </Role>
+  <Role>
+    <filmId>2064</filmId>
+    <peopleId>268</peopleId>
+    <roleName>Capt.-Lt. Henrich Lehmann-Willenbrock - Der Alte</roleName>
+  </Role>
+  <Role>
+    <filmId>2055</filmId>
+    <peopleId>237</peopleId>
+    <roleName>Maudie Atkinson</roleName>
+  </Role>
+  <Role>
+    <filmId>2055</filmId>
+    <peopleId>236</peopleId>
+    <roleName>Sheriff Heck Tate</roleName>
+  </Role>
+  <Role>
+    <filmId>2055</filmId>
+    <peopleId>235</peopleId>
+    <roleName>Charles Baker 'Dill' Harris</roleName>
+  </Role>
+  <Role>
+    <filmId>2055</filmId>
+    <peopleId>234</peopleId>
+    <roleName>Atticus Finch</roleName>
+  </Role>
+  <Role>
+    <filmId>2099</filmId>
+    <peopleId>404</peopleId>
+    <roleName>Samantha Darko</roleName>
+  </Role>
+  <Role>
+    <filmId>2099</filmId>
+    <peopleId>403</peopleId>
+    <roleName>Elizabeth Darko</roleName>
+  </Role>
+  <Role>
+    <filmId>2099</filmId>
+    <peopleId>402</peopleId>
+    <roleName>Eddie Darko</roleName>
+  </Role>
+  <Role>
+    <filmId>2099</filmId>
+    <peopleId>401</peopleId>
+    <roleName>Donnie Darko</roleName>
+  </Role>
+  <Role>
+    <filmId>2079</filmId>
+    <peopleId>326</peopleId>
+    <roleName>Ellen Brody</roleName>
+  </Role>
+  <Role>
+    <filmId>2079</filmId>
+    <peopleId>325</peopleId>
+    <roleName>Matt Hooper</roleName>
+  </Role>
+  <Role>
+    <filmId>2079</filmId>
+    <peopleId>324</peopleId>
+    <roleName>Sam Quint</roleName>
+  </Role>
+  <Role>
+    <filmId>2079</filmId>
+    <peopleId>323</peopleId>
+    <roleName>Chief Martin Brody</roleName>
+  </Role>
+  <Role>
+    <filmId>2083</filmId>
+    <peopleId>341</peopleId>
+    <roleName>Charley 'the Gent' Malloy</roleName>
+  </Role>
+  <Role>
+    <filmId>2083</filmId>
+    <peopleId>36</peopleId>
+    <roleName>Johnny Friendly</roleName>
+  </Role>
+  <Role>
+    <filmId>2083</filmId>
+    <peopleId>340</peopleId>
+    <roleName>Father Barry</roleName>
+  </Role>
+  <Role>
+    <filmId>2083</filmId>
+    <peopleId>6</peopleId>
+    <roleName>Terry Malloy</roleName>
+  </Role>
+  <Role>
+    <filmId>2205</filmId>
+    <peopleId>787</peopleId>
+    <roleName>Hon Sam</roleName>
+  </Role>
+  <Role>
+    <filmId>2205</filmId>
+    <peopleId>786</peopleId>
+    <roleName>SP Wong Chi Shing</roleName>
+  </Role>
+  <Role>
+    <filmId>2205</filmId>
+    <peopleId>785</peopleId>
+    <roleName>Chen Wing Yan</roleName>
+  </Role>
+  <Role>
+    <filmId>2205</filmId>
+    <peopleId>784</peopleId>
+    <roleName>Inspector Lau Kin Ming</roleName>
+  </Role>
+  <Role>
+    <filmId>2157</filmId>
+    <peopleId>624</peopleId>
+    <roleName>Peggy Stephenson</roleName>
+  </Role>
+  <Role>
+    <filmId>2157</filmId>
+    <peopleId>623</peopleId>
+    <roleName>Fred Derry</roleName>
+  </Role>
+  <Role>
+    <filmId>2157</filmId>
+    <peopleId>622</peopleId>
+    <roleName>Al Stephenson</roleName>
+  </Role>
+  <Role>
+    <filmId>2157</filmId>
+    <peopleId>621</peopleId>
+    <roleName>Milly Stephenson</roleName>
+  </Role>
+  <Role>
+    <filmId>2148</filmId>
+    <peopleId>472</peopleId>
+    <roleName>Maximilian Schell</roleName>
+  </Role>
+  <Role>
+    <filmId>2148</filmId>
+    <peopleId>589</peopleId>
+    <roleName>Dr. Ernst Janning</roleName>
+  </Role>
+  <Role>
+    <filmId>2148</filmId>
+    <peopleId>588</peopleId>
+    <roleName>Chief Judge Dan Haywood</roleName>
+  </Role>
+  <Role>
+    <filmId>2002</filmId>
+    <peopleId>12</peopleId>
+    <roleName>Vito Corleone</roleName>
+  </Role>
+  <Role>
+    <filmId>2002</filmId>
+    <peopleId>11</peopleId>
+    <roleName>Kay Corleone</roleName>
+  </Role>
+  <Role>
+    <filmId>2002</filmId>
+    <peopleId>10</peopleId>
+    <roleName>Tom Hagen</roleName>
+  </Role>
+  <Role>
+    <filmId>2002</filmId>
+    <peopleId>7</peopleId>
+    <roleName>Don Michael Corleone</roleName>
+  </Role>
+  <Role>
+    <filmId>2174</filmId>
+    <peopleId>685</peopleId>
+    <roleName>Frank T.J. Mackey</roleName>
+  </Role>
+  <Role>
+    <filmId>2174</filmId>
+    <peopleId>684</peopleId>
+    <roleName>Officer Jim Kurring</roleName>
+  </Role>
+  <Role>
+    <filmId>2174</filmId>
+    <peopleId>683</peopleId>
+    <roleName>Donnie Smith</roleName>
+  </Role>
+  <Role>
+    <filmId>2174</filmId>
+    <peopleId>425</peopleId>
+    <roleName>Linda Partridge</roleName>
+  </Role>
+  <Role>
+    <filmId>2082</filmId>
+    <peopleId>338</peopleId>
+    <roleName>Director</roleName>
+  </Role>
+  <Role>
+    <filmId>2082</filmId>
+    <peopleId>337</peopleId>
+    <roleName>Prem Kapur</roleName>
+  </Role>
+  <Role>
+    <filmId>2082</filmId>
+    <peopleId>336</peopleId>
+    <roleName>Sergeant Srinivas</roleName>
+  </Role>
+  <Role>
+    <filmId>2082</filmId>
+    <peopleId>335</peopleId>
+    <roleName>Jamal K. Malik</roleName>
+  </Role>
+  <Role>
+    <filmId>2122</filmId>
+    <peopleId>355</peopleId>
+    <roleName>Jullan Kindahl</roleName>
+  </Role>
+  <Role>
+    <filmId>2122</filmId>
+    <peopleId>494</peopleId>
+    <roleName>Marianne Borg</roleName>
+  </Role>
+  <Role>
+    <filmId>2122</filmId>
+    <peopleId>493</peopleId>
+    <roleName>Sara</roleName>
+  </Role>
+  <Role>
+    <filmId>2122</filmId>
+    <peopleId>492</peopleId>
+    <roleName>Dr. Isak Borg</roleName>
+  </Role>
+  <Role>
+    <filmId>2020</filmId>
+    <peopleId>94</peopleId>
+    <roleName>Stella</roleName>
+  </Role>
+  <Role>
+    <filmId>2020</filmId>
+    <peopleId>93</peopleId>
+    <roleName>Det. Lt. Thomas J. Doyle</roleName>
+  </Role>
+  <Role>
+    <filmId>2020</filmId>
+    <peopleId>92</peopleId>
+    <roleName>Lisa Carol Fremont</roleName>
+  </Role>
+  <Role>
+    <filmId>2020</filmId>
+    <peopleId>91</peopleId>
+    <roleName>L.B. 'Jeff' Jeffries</roleName>
+  </Role>
+  <Role>
+    <filmId>2092</filmId>
+    <peopleId>373</peopleId>
+    <roleName>Nate</roleName>
+  </Role>
+  <Role>
+    <filmId>2092</filmId>
+    <peopleId>372</peopleId>
+    <roleName>Chris Shiherlis</roleName>
+  </Role>
+  <Role>
+    <filmId>2092</filmId>
+    <peopleId>12</peopleId>
+    <roleName>Neil McCauley</roleName>
+  </Role>
+  <Role>
+    <filmId>2092</filmId>
+    <peopleId>7</peopleId>
+    <roleName>Lt. Vincent Hanna</roleName>
+  </Role>
+  <Role>
+    <filmId>2203</filmId>
+    <peopleId>473</peopleId>
+    <roleName>Sempronius Gracchus</roleName>
+  </Role>
+  <Role>
+    <filmId>2203</filmId>
+    <peopleId>775</peopleId>
+    <roleName>Varinia</roleName>
+  </Role>
+  <Role>
+    <filmId>2203</filmId>
+    <peopleId>774</peopleId>
+    <roleName>Marcus Licinius Crassus</roleName>
+  </Role>
+  <Role>
+    <filmId>2203</filmId>
+    <peopleId>211</peopleId>
+    <roleName>Spartacus</roleName>
+  </Role>
+  <Role>
+    <filmId>2138</filmId>
+    <peopleId>555</peopleId>
+    <roleName>Lord Irwin</roleName>
+  </Role>
+  <Role>
+    <filmId>2138</filmId>
+    <peopleId>554</peopleId>
+    <roleName>Gen. Reginald Dyer</roleName>
+  </Role>
+  <Role>
+    <filmId>2138</filmId>
+    <peopleId>553</peopleId>
+    <roleName>Margaret Bourke-White</roleName>
+  </Role>
+  <Role>
+    <filmId>2138</filmId>
+    <peopleId>30</peopleId>
+    <roleName>Mohandas K. Gandhi</roleName>
+  </Role>
+  <Role>
+    <filmId>2124</filmId>
+    <peopleId>113</peopleId>
+    <roleName>Ezra Kramer</roleName>
+  </Role>
+  <Role>
+    <filmId>2124</filmId>
+    <peopleId>501</peopleId>
+    <roleName>Noah Vosen</roleName>
+  </Role>
+  <Role>
+    <filmId>2124</filmId>
+    <peopleId>500</peopleId>
+    <roleName>Nicky Parsons</roleName>
+  </Role>
+  <Role>
+    <filmId>2124</filmId>
+    <peopleId>209</peopleId>
+    <roleName>Jason Bourne</roleName>
+  </Role>
+  <Role>
+    <filmId>2058</filmId>
+    <peopleId>89</peopleId>
+    <roleName>Patrick</roleName>
+  </Role>
+  <Role>
+    <filmId>2058</filmId>
+    <peopleId>250</peopleId>
+    <roleName>Train Conductor</roleName>
+  </Role>
+  <Role>
+    <filmId>2058</filmId>
+    <peopleId>249</peopleId>
+    <roleName>Clementine Kruczynski</roleName>
+  </Role>
+  <Role>
+    <filmId>2058</filmId>
+    <peopleId>248</peopleId>
+    <roleName>Joel Barish</roleName>
+  </Role>
+  <Role>
+    <filmId>2069</filmId>
+    <peopleId>289</peopleId>
+    <roleName>Sgt. Donny Donowitz</roleName>
+  </Role>
+  <Role>
+    <filmId>2069</filmId>
+    <peopleId>288</peopleId>
+    <roleName>Col. Hans Landa</roleName>
+  </Role>
+  <Role>
+    <filmId>2069</filmId>
+    <peopleId>287</peopleId>
+    <roleName>Shosanna Dreyfus</roleName>
+  </Role>
+  <Role>
+    <filmId>2069</filmId>
+    <peopleId>79</peopleId>
+    <roleName>Lt. Aldo Raine</roleName>
+  </Role>
+  <Role>
+    <filmId>2027</filmId>
+    <peopleId>123</peopleId>
+    <roleName>Police Captain</roleName>
+  </Role>
+  <Role>
+    <filmId>2027</filmId>
+    <peopleId>122</peopleId>
+    <roleName>Tracy Mills</roleName>
+  </Role>
+  <Role>
+    <filmId>2027</filmId>
+    <peopleId>2</peopleId>
+    <roleName>Detective Lt. William Somerset</roleName>
+  </Role>
+  <Role>
+    <filmId>2027</filmId>
+    <peopleId>79</peopleId>
+    <roleName>Detective David Mills</roleName>
+  </Role>
+  <Role>
+    <filmId>2195</filmId>
+    <peopleId>750</peopleId>
+    <roleName>Honey</roleName>
+  </Role>
+  <Role>
+    <filmId>2195</filmId>
+    <peopleId>749</peopleId>
+    <roleName>Nick</roleName>
+  </Role>
+  <Role>
+    <filmId>2195</filmId>
+    <peopleId>748</peopleId>
+    <roleName>George</roleName>
+  </Role>
+  <Role>
+    <filmId>2195</filmId>
+    <peopleId>747</peopleId>
+    <roleName>Martha</roleName>
+  </Role>
+  <Role>
+    <filmId>2208</filmId>
+    <peopleId>797</peopleId>
+    <roleName>O'Hara</roleName>
+  </Role>
+  <Role>
+    <filmId>2208</filmId>
+    <peopleId>796</peopleId>
+    <roleName>Jonathan Brewster</roleName>
+  </Role>
+  <Role>
+    <filmId>2208</filmId>
+    <peopleId>795</peopleId>
+    <roleName>Elaine Harper</roleName>
+  </Role>
+  <Role>
+    <filmId>2208</filmId>
+    <peopleId>153</peopleId>
+    <roleName>Mortimer Brewster</roleName>
+  </Role>
+  <Role>
+    <filmId>2198</filmId>
+    <peopleId>757</peopleId>
+    <roleName>Steven Berkoff</roleName>
+  </Role>
+  <Role>
+    <filmId>2198</filmId>
+    <peopleId>206</peopleId>
+    <roleName>The Chevalier</roleName>
+  </Role>
+  <Role>
+    <filmId>2198</filmId>
+    <peopleId>756</peopleId>
+    <roleName>Lady Lyndon</roleName>
+  </Role>
+  <Role>
+    <filmId>2198</filmId>
+    <peopleId>755</peopleId>
+    <roleName>Barry Lyndon</roleName>
+  </Role>
+  <Role>
+    <filmId>2041</filmId>
+    <peopleId>178</peopleId>
+    <roleName>T-1000</roleName>
+  </Role>
+  <Role>
+    <filmId>2041</filmId>
+    <peopleId>165</peopleId>
+    <roleName>John Connor</roleName>
+  </Role>
+  <Role>
+    <filmId>2041</filmId>
+    <peopleId>177</peopleId>
+    <roleName>Sarah Connor</roleName>
+  </Role>
+  <Role>
+    <filmId>2041</filmId>
+    <peopleId>176</peopleId>
+    <roleName>The Terminator</roleName>
+  </Role>
+  <Role>
+    <filmId>2119</filmId>
+    <peopleId>482</peopleId>
+    <roleName>King Westley</roleName>
+  </Role>
+  <Role>
+    <filmId>2119</filmId>
+    <peopleId>481</peopleId>
+    <roleName>Roscoe Karns</roleName>
+  </Role>
+  <Role>
+    <filmId>2119</filmId>
+    <peopleId>480</peopleId>
+    <roleName>Ellie Andrews</roleName>
+  </Role>
+  <Role>
+    <filmId>2119</filmId>
+    <peopleId>479</peopleId>
+    <roleName>Peter Warne</roleName>
+  </Role>
+  <Role>
+    <filmId>2178</filmId>
+    <peopleId>697</peopleId>
+    <roleName>Shimizu</roleName>
+  </Role>
+  <Role>
+    <filmId>2178</filmId>
+    <peopleId>696</peopleId>
+    <roleName>Baron Nishi</roleName>
+  </Role>
+  <Role>
+    <filmId>2178</filmId>
+    <peopleId>695</peopleId>
+    <roleName>Saigo</roleName>
+  </Role>
+  <Role>
+    <filmId>2178</filmId>
+    <peopleId>694</peopleId>
+    <roleName>General Kuribayashi</roleName>
+  </Role>
+  <Role>
+    <filmId>2147</filmId>
+    <peopleId>545</peopleId>
+    <roleName>Jean Brochard</roleName>
+  </Role>
+  <Role>
+    <filmId>2147</filmId>
+    <peopleId>586</peopleId>
+    <roleName>Michel Delassalle</roleName>
+  </Role>
+  <Role>
+    <filmId>2147</filmId>
+    <peopleId>547</peopleId>
+    <roleName>Christina Delassalle</roleName>
+  </Role>
+  <Role>
+    <filmId>2147</filmId>
+    <peopleId>585</peopleId>
+    <roleName>Nicole Horner</roleName>
+  </Role>
+  <Role>
+    <filmId>2096</filmId>
+    <peopleId>390</peopleId>
+    <roleName>Patricia Hitchcock</roleName>
+  </Role>
+  <Role>
+    <filmId>2096</filmId>
+    <peopleId>389</peopleId>
+    <roleName>Leo G. Carroll</roleName>
+  </Role>
+  <Role>
+    <filmId>2096</filmId>
+    <peopleId>388</peopleId>
+    <roleName>Anne Morton</roleName>
+  </Role>
+  <Role>
+    <filmId>2096</filmId>
+    <peopleId>387</peopleId>
+    <roleName>Guy Haines</roleName>
+  </Role>
+  <Role>
+    <filmId>2000</filmId>
+    <peopleId>4</peopleId>
+    <roleName>Heywood</roleName>
+  </Role>
+  <Role>
+    <filmId>2000</filmId>
+    <peopleId>3</peopleId>
+    <roleName>Warden Norton</roleName>
+  </Role>
+  <Role>
+    <filmId>2000</filmId>
+    <peopleId>2</peopleId>
+    <roleName>Ellis Boyd 'Red' Redding</roleName>
+  </Role>
+  <Role>
+    <filmId>2000</filmId>
+    <peopleId>1</peopleId>
+    <roleName>Andy Dufresne</roleName>
+  </Role>
+  <Role>
+    <filmId>2181</filmId>
+    <peopleId>387</peopleId>
+    <roleName>Phillip Morgan</roleName>
+  </Role>
+  <Role>
+    <filmId>2181</filmId>
+    <peopleId>704</peopleId>
+    <roleName>Brandon Shaw</roleName>
+  </Role>
+  <Role>
+    <filmId>2181</filmId>
+    <peopleId>703</peopleId>
+    <roleName>Janet Walker</roleName>
+  </Role>
+  <Role>
+    <filmId>2181</filmId>
+    <peopleId>91</peopleId>
+    <roleName>Rupert Cadell</roleName>
+  </Role>
+  <Role>
+    <filmId>2193</filmId>
+    <peopleId>744</peopleId>
+    <roleName>Dr. Zaius - Minister of Science</roleName>
+  </Role>
+  <Role>
+    <filmId>2193</filmId>
+    <peopleId>672</peopleId>
+    <roleName>Dr. Zira</roleName>
+  </Role>
+  <Role>
+    <filmId>2193</filmId>
+    <peopleId>743</peopleId>
+    <roleName>Cornelius</roleName>
+  </Role>
+  <Role>
+    <filmId>2193</filmId>
+    <peopleId>352</peopleId>
+    <roleName>Colonel George Taylor</roleName>
+  </Role>
+  <Role>
+    <filmId>2067</filmId>
+    <peopleId>282</peopleId>
+    <roleName>Big Bill</roleName>
+  </Role>
+  <Role>
+    <filmId>2067</filmId>
+    <peopleId>281</peopleId>
+    <roleName>Cafe Proprietor</roleName>
+  </Role>
+  <Role>
+    <filmId>2067</filmId>
+    <peopleId>280</peopleId>
+    <roleName>A Gamin</roleName>
+  </Role>
+  <Role>
+    <filmId>2067</filmId>
+    <peopleId>279</peopleId>
+    <roleName>A Factory Worker</roleName>
+  </Role>
+  <Role>
+    <filmId>2153</filmId>
+    <peopleId>608</peopleId>
+    <roleName>Freddie Sykes</roleName>
+  </Role>
+  <Role>
+    <filmId>2153</filmId>
+    <peopleId>607</peopleId>
+    <roleName>Deke Thornton</roleName>
+  </Role>
+  <Role>
+    <filmId>2153</filmId>
+    <peopleId>606</peopleId>
+    <roleName>Dutch Engstrom</roleName>
+  </Role>
+  <Role>
+    <filmId>2153</filmId>
+    <peopleId>135</peopleId>
+    <roleName>Pike Bishop</roleName>
+  </Role>
+  <Role>
+    <filmId>2141</filmId>
+    <peopleId>567</peopleId>
+    <roleName>Deitrich</roleName>
+  </Role>
+  <Role>
+    <filmId>2141</filmId>
+    <peopleId>566</peopleId>
+    <roleName>Finch</roleName>
+  </Role>
+  <Role>
+    <filmId>2141</filmId>
+    <peopleId>121</peopleId>
+    <roleName>V</roleName>
+  </Role>
+  <Role>
+    <filmId>2141</filmId>
+    <peopleId>147</peopleId>
+    <roleName>Evey</roleName>
+  </Role>
+  <Role>
+    <filmId>2054</filmId>
+    <peopleId>232</peopleId>
+    <roleName>Theodor Loos</roleName>
+  </Role>
+  <Role>
+    <filmId>2054</filmId>
+    <peopleId>231</peopleId>
+    <roleName>Otto Wernicke</roleName>
+  </Role>
+  <Role>
+    <filmId>2054</filmId>
+    <peopleId>230</peopleId>
+    <roleName>Frau Beckmann</roleName>
+  </Role>
+  <Role>
+    <filmId>2054</filmId>
+    <peopleId>229</peopleId>
+    <roleName>Hans Beckert</roleName>
+  </Role>
+  <Role>
+    <filmId>2189</filmId>
+    <peopleId>733</peopleId>
+    <roleName>Moroccan Minister</roleName>
+  </Role>
+  <Role>
+    <filmId>2189</filmId>
+    <peopleId>732</peopleId>
+    <roleName>Carey Loftin</roleName>
+  </Role>
+  <Role>
+    <filmId>2189</filmId>
+    <peopleId>340</peopleId>
+    <roleName>Stephen Young</roleName>
+  </Role>
+  <Role>
+    <filmId>2189</filmId>
+    <peopleId>142</peopleId>
+    <roleName>General George S. Patton Jr.</roleName>
+  </Role>
+  <Role>
+    <filmId>2039</filmId>
+    <peopleId>172</peopleId>
+    <roleName>Ricky Fitts</roleName>
+  </Role>
+  <Role>
+    <filmId>2039</filmId>
+    <peopleId>171</peopleId>
+    <roleName>Jane Burnham</roleName>
+  </Role>
+  <Role>
+    <filmId>2039</filmId>
+    <peopleId>170</peopleId>
+    <roleName>Carolyn Burnham</roleName>
+  </Role>
+  <Role>
+    <filmId>2039</filmId>
+    <peopleId>169</peopleId>
+    <roleName>Lester Burnham</roleName>
+  </Role>
+  <Role>
+    <filmId>2090</filmId>
+    <peopleId>368</peopleId>
+    <roleName>Tsunehiko Kamijo</roleName>
+  </Role>
+  <Role>
+    <filmId>2090</filmId>
+    <peopleId>367</peopleId>
+    <roleName>Kaoru Kobayashi</roleName>
+  </Role>
+  <Role>
+    <filmId>2090</filmId>
+    <peopleId>366</peopleId>
+    <roleName>San</roleName>
+  </Role>
+  <Role>
+    <filmId>2090</filmId>
+    <peopleId>365</peopleId>
+    <roleName>Ashitaka</roleName>
+  </Role>
+  <Role>
+    <filmId>2072</filmId>
+    <peopleId>301</peopleId>
+    <roleName>Emanuel Schikaneder</roleName>
+  </Role>
+  <Role>
+    <filmId>2072</filmId>
+    <peopleId>300</peopleId>
+    <roleName>Constanze Mozart</roleName>
+  </Role>
+  <Role>
+    <filmId>2072</filmId>
+    <peopleId>299</peopleId>
+    <roleName>Wolfgang Amadeus Mozart</roleName>
+  </Role>
+  <Role>
+    <filmId>2072</filmId>
+    <peopleId>298</peopleId>
+    <roleName>Antonio Salieri</roleName>
+  </Role>
+  <Role>
+    <filmId>2051</filmId>
+    <peopleId>219</peopleId>
+    <roleName>Henryk</roleName>
+  </Role>
+  <Role>
+    <filmId>2051</filmId>
+    <peopleId>218</peopleId>
+    <roleName>Jurek</roleName>
+  </Role>
+  <Role>
+    <filmId>2051</filmId>
+    <peopleId>217</peopleId>
+    <roleName>Dorota</roleName>
+  </Role>
+  <Role>
+    <filmId>2051</filmId>
+    <peopleId>216</peopleId>
+    <roleName>Wladyslaw Szpilman</roleName>
+  </Role>
+  <Role>
+    <filmId>2043</filmId>
+    <peopleId>186</peopleId>
+    <roleName>Pvt. Daniel Jackson</roleName>
+  </Role>
+  <Role>
+    <filmId>2043</filmId>
+    <peopleId>185</peopleId>
+    <roleName>Pvt. Richard Reiben</roleName>
+  </Role>
+  <Role>
+    <filmId>2043</filmId>
+    <peopleId>184</peopleId>
+    <roleName>Sgt. Mike Horvath</roleName>
+  </Role>
+  <Role>
+    <filmId>2043</filmId>
+    <peopleId>64</peopleId>
+    <roleName>Capt. John H. Miller</roleName>
+  </Role>
+  <Role>
+    <filmId>2194</filmId>
+    <peopleId>746</peopleId>
+    <roleName>Tracy</roleName>
+  </Role>
+  <Role>
+    <filmId>2194</filmId>
+    <peopleId>745</peopleId>
+    <roleName>Keaton</roleName>
+  </Role>
+  <Role>
+    <filmId>2194</filmId>
+    <peopleId>427</peopleId>
+    <roleName>Woddy Allen</roleName>
+  </Role>
+  <Role>
+    <filmId>2155</filmId>
+    <peopleId>189</peopleId>
+    <roleName>Audrey Fildes</roleName>
+  </Role>
+  <Role>
+    <filmId>2155</filmId>
+    <peopleId>614</peopleId>
+    <roleName>Edith D'Ascoyne</roleName>
+  </Role>
+  <Role>
+    <filmId>2155</filmId>
+    <peopleId>613</peopleId>
+    <roleName>Louis Mazzini</roleName>
+  </Role>
+  <Role>
+    <filmId>2166</filmId>
+    <peopleId>659</peopleId>
+    <roleName>Claude</roleName>
+  </Role>
+  <Role>
+    <filmId>2166</filmId>
+    <peopleId>658</peopleId>
+    <roleName>Henriette Roi</roleName>
+  </Role>
+  <Role>
+    <filmId>2166</filmId>
+    <peopleId>657</peopleId>
+    <roleName>Celine</roleName>
+  </Role>
+  <Role>
+    <filmId>2166</filmId>
+    <peopleId>656</peopleId>
+    <roleName>Jean-Do</roleName>
+  </Role>
+  <Role>
+    <filmId>2185</filmId>
+    <peopleId>719</peopleId>
+    <roleName>Bokuzen Hidari</roleName>
+  </Role>
+  <Role>
+    <filmId>2185</filmId>
+    <peopleId>718</peopleId>
+    <roleName>Minoru Chiaki</roleName>
+  </Role>
+  <Role>
+    <filmId>2185</filmId>
+    <peopleId>717</peopleId>
+    <roleName>Kimura</roleName>
+  </Role>
+  <Role>
+    <filmId>2185</filmId>
+    <peopleId>58</peopleId>
+    <roleName>Kanji Watanabe</roleName>
+  </Role>
+  <Role>
+    <filmId>2105</filmId>
+    <peopleId>426</peopleId>
+    <roleName>Theodore Donald 'Donny' Kerabatsos</roleName>
+  </Role>
+  <Role>
+    <filmId>2105</filmId>
+    <peopleId>425</peopleId>
+    <roleName>Maude Lebowski</roleName>
+  </Role>
+  <Role>
+    <filmId>2105</filmId>
+    <peopleId>424</peopleId>
+    <roleName>Walter Sobchak</roleName>
+  </Role>
+  <Role>
+    <filmId>2105</filmId>
+    <peopleId>423</peopleId>
+    <roleName>Jeffrey Lebowski - The Dude</roleName>
+  </Role>
+  <Role>
+    <filmId>2098</filmId>
+    <peopleId>399</peopleId>
+    <roleName>Anna Crowe</roleName>
+  </Role>
+  <Role>
+    <filmId>2098</filmId>
+    <peopleId>398</peopleId>
+    <roleName>Lynn Sear</roleName>
+  </Role>
+  <Role>
+    <filmId>2098</filmId>
+    <peopleId>397</peopleId>
+    <roleName>Cole Sear</roleName>
+  </Role>
+  <Role>
+    <filmId>2098</filmId>
+    <peopleId>329</peopleId>
+    <roleName>Dr. Malcolm Crowe</roleName>
+  </Role>
+  <Role>
+    <filmId>2199</filmId>
+    <peopleId>760</peopleId>
+    <roleName>Harcourt Williams</roleName>
+  </Role>
+  <Role>
+    <filmId>2199</filmId>
+    <peopleId>759</peopleId>
+    <roleName>Irving Radovich</roleName>
+  </Role>
+  <Role>
+    <filmId>2199</filmId>
+    <peopleId>758</peopleId>
+    <roleName>Princess Ann</roleName>
+  </Role>
+  <Role>
+    <filmId>2199</filmId>
+    <peopleId>234</peopleId>
+    <roleName>Joe Bradley</roleName>
+  </Role>
+  <Role>
+    <filmId>2091</filmId>
+    <peopleId>370</peopleId>
+    <roleName>Luigi Pistilli</roleName>
+  </Role>
+  <Role>
+    <filmId>2091</filmId>
+    <peopleId>369</peopleId>
+    <roleName>El Indio The Indian)</roleName>
+  </Role>
+  <Role>
+    <filmId>2091</filmId>
+    <peopleId>21</peopleId>
+    <roleName>Col. Douglas Mortimer</roleName>
+  </Role>
+  <Role>
+    <filmId>2091</filmId>
+    <peopleId>20</peopleId>
+    <roleName>Monco</roleName>
+  </Role>
+  <Role>
+    <filmId>2175</filmId>
+    <peopleId>689</peopleId>
+    <roleName>Vernita Green</roleName>
+  </Role>
+  <Role>
+    <filmId>2175</filmId>
+    <peopleId>688</peopleId>
+    <roleName>O-Ren Ishii</roleName>
+  </Role>
+  <Role>
+    <filmId>2175</filmId>
+    <peopleId>687</peopleId>
+    <roleName>Bill - 'Snake Charmer'</roleName>
+  </Role>
+  <Role>
+    <filmId>2175</filmId>
+    <peopleId>686</peopleId>
+    <roleName>Beatrix Kiddo - The Bride</roleName>
+  </Role>
+  <Role>
+    <filmId>2130</filmId>
+    <peopleId>523</peopleId>
+    <roleName>Vern Tessio</roleName>
+  </Role>
+  <Role>
+    <filmId>2130</filmId>
+    <peopleId>522</peopleId>
+    <roleName>Teddy Duchamp</roleName>
+  </Role>
+  <Role>
+    <filmId>2130</filmId>
+    <peopleId>521</peopleId>
+    <roleName>Chris Chambers</roleName>
+  </Role>
+  <Role>
+    <filmId>2130</filmId>
+    <peopleId>520</peopleId>
+    <roleName>Gordie Lachance</roleName>
+  </Role>
+  <Role>
+    <filmId>2028</filmId>
+    <peopleId>126</peopleId>
+    <roleName>Burt</roleName>
+  </Role>
+  <Role>
+    <filmId>2028</filmId>
+    <peopleId>125</peopleId>
+    <roleName>Teddy Gammell</roleName>
+  </Role>
+  <Role>
+    <filmId>2028</filmId>
+    <peopleId>120</peopleId>
+    <roleName>Natalie</roleName>
+  </Role>
+  <Role>
+    <filmId>2028</filmId>
+    <peopleId>124</peopleId>
+    <roleName>Leonard</roleName>
+  </Role>
+  <Role>
+    <filmId>2074</filmId>
+    <peopleId>311</peopleId>
+    <roleName>Group Capt. Ramsey "The SBO"</roleName>
+  </Role>
+  <Role>
+    <filmId>2074</filmId>
+    <peopleId>310</peopleId>
+    <roleName>Squadron Leader Roger Bartlett "Big X"</roleName>
+  </Role>
+  <Role>
+    <filmId>2074</filmId>
+    <peopleId>309</peopleId>
+    <roleName>Flight Lt. Hendley "The Scrounger"</roleName>
+  </Role>
+  <Role>
+    <filmId>2074</filmId>
+    <peopleId>308</peopleId>
+    <roleName>Capt. Hilts "he Cooler King"</roleName>
+  </Role>
+  <Role>
+    <filmId>2109</filmId>
+    <peopleId>442</peopleId>
+    <roleName>Silver Assay Worker</roleName>
+  </Role>
+  <Role>
+    <filmId>2109</filmId>
+    <peopleId>441</peopleId>
+    <roleName>Silver Assay Worker</roleName>
+  </Role>
+  <Role>
+    <filmId>2109</filmId>
+    <peopleId>440</peopleId>
+    <roleName>Silver Assay Worker</roleName>
+  </Role>
+  <Role>
+    <filmId>2109</filmId>
+    <peopleId>439</peopleId>
+    <roleName>Daniel Plainview</roleName>
+  </Role>
+  <Role>
+    <filmId>2042</filmId>
+    <peopleId>183</peopleId>
+    <roleName>Brett</roleName>
+  </Role>
+  <Role>
+    <filmId>2042</filmId>
+    <peopleId>182</peopleId>
+    <roleName>Lambert</roleName>
+  </Role>
+  <Role>
+    <filmId>2042</filmId>
+    <peopleId>181</peopleId>
+    <roleName>Ripley</roleName>
+  </Role>
+  <Role>
+    <filmId>2042</filmId>
+    <peopleId>180</peopleId>
+    <roleName>Dallas</roleName>
+  </Role>
+  <Role>
+    <filmId>2019</filmId>
+    <peopleId>54</peopleId>
+    <roleName>Samwise 'Sam' Gamgee</roleName>
+  </Role>
+  <Role>
+    <filmId>2019</filmId>
+    <peopleId>52</peopleId>
+    <roleName>Everard Proudfoot</roleName>
+  </Role>
+  <Role>
+    <filmId>2019</filmId>
+    <peopleId>89</peopleId>
+    <roleName>Frodo Baggins</roleName>
+  </Role>
+  <Role>
+    <filmId>2019</filmId>
+    <peopleId>88</peopleId>
+    <roleName>The Ring</roleName>
+  </Role>
+  <Role>
+    <filmId>2008</filmId>
+    <peopleId>42</peopleId>
+    <roleName>Miller</roleName>
+  </Role>
+  <Role>
+    <filmId>2008</filmId>
+    <peopleId>41</peopleId>
+    <roleName>Dr. Spivey</roleName>
+  </Role>
+  <Role>
+    <filmId>2008</filmId>
+    <peopleId>40</peopleId>
+    <roleName>Col. Matterson</roleName>
+  </Role>
+  <Role>
+    <filmId>2008</filmId>
+    <peopleId>39</peopleId>
+    <roleName>Ellis</roleName>
+  </Role>
+  <Role>
+    <filmId>2188</filmId>
+    <peopleId>349</peopleId>
+    <roleName>Det. Graham Waters</roleName>
+  </Role>
+  <Role>
+    <filmId>2188</filmId>
+    <peopleId>730</peopleId>
+    <roleName>Jean Cabot</roleName>
+  </Role>
+  <Role>
+    <filmId>2188</filmId>
+    <peopleId>729</peopleId>
+    <roleName>Dato Bakhtadze</roleName>
+  </Role>
+  <Role>
+    <filmId>2168</filmId>
+    <peopleId>666</peopleId>
+    <roleName>Sandra Bloom - Senior</roleName>
+  </Role>
+  <Role>
+    <filmId>2168</filmId>
+    <peopleId>665</peopleId>
+    <roleName>Will Bloom</roleName>
+  </Role>
+  <Role>
+    <filmId>2168</filmId>
+    <peopleId>664</peopleId>
+    <roleName>Ed Bloom - Senior</roleName>
+  </Role>
+  <Role>
+    <filmId>2168</filmId>
+    <peopleId>502</peopleId>
+    <roleName>Ed Bloom - Young</roleName>
+  </Role>
+  <Role>
+    <filmId>2088</filmId>
+    <peopleId>358</peopleId>
+    <roleName>Antonius Block</roleName>
+  </Role>
+  <Role>
+    <filmId>2088</filmId>
+    <peopleId>357</peopleId>
+    <roleName>Jof</roleName>
+  </Role>
+  <Role>
+    <filmId>2088</filmId>
+    <peopleId>356</peopleId>
+    <roleName>Death</roleName>
+  </Role>
+  <Role>
+    <filmId>2088</filmId>
+    <peopleId>355</peopleId>
+    <roleName>Jons</roleName>
+  </Role>
+  <Role>
+    <filmId>2038</filmId>
+    <peopleId>167</peopleId>
+    <roleName>Dr. Bob Sweeney</roleName>
+  </Role>
+  <Role>
+    <filmId>2038</filmId>
+    <peopleId>166</peopleId>
+    <roleName>Doris Vinyard</roleName>
+  </Role>
+  <Role>
+    <filmId>2038</filmId>
+    <peopleId>165</peopleId>
+    <roleName>Danny Vinyard</roleName>
+  </Role>
+  <Role>
+    <filmId>2038</filmId>
+    <peopleId>78</peopleId>
+    <roleName>Derek Vinyard</roleName>
+  </Role>
+  <Role>
+    <filmId>2073</filmId>
+    <peopleId>306</peopleId>
+    <roleName>Joseph Goebbels</roleName>
+  </Role>
+  <Role>
+    <filmId>2073</filmId>
+    <peopleId>305</peopleId>
+    <roleName>Magda Goebbels</roleName>
+  </Role>
+  <Role>
+    <filmId>2073</filmId>
+    <peopleId>304</peopleId>
+    <roleName>Traudl Junge</roleName>
+  </Role>
+  <Role>
+    <filmId>2073</filmId>
+    <peopleId>303</peopleId>
+    <roleName>Adolf Hitler</roleName>
+  </Role>
+  <Role>
+    <filmId>2125</filmId>
+    <peopleId>505</peopleId>
+    <roleName>Tommy</roleName>
+  </Role>
+  <Role>
+    <filmId>2125</filmId>
+    <peopleId>504</peopleId>
+    <roleName>Sick Boy</roleName>
+  </Role>
+  <Role>
+    <filmId>2125</filmId>
+    <peopleId>503</peopleId>
+    <roleName>Spud</roleName>
+  </Role>
+  <Role>
+    <filmId>2125</filmId>
+    <peopleId>502</peopleId>
+    <roleName>Renton</roleName>
+  </Role>
+  <Role>
+    <filmId>2068</filmId>
+    <peopleId>286</peopleId>
+    <roleName>Moon-Watcher</roleName>
+  </Role>
+  <Role>
+    <filmId>2068</filmId>
+    <peopleId>285</peopleId>
+    <roleName>Dr. Heywood R. Floyd</roleName>
+  </Role>
+  <Role>
+    <filmId>2068</filmId>
+    <peopleId>284</peopleId>
+    <roleName>Dr. Frank Poole</roleName>
+  </Role>
+  <Role>
+    <filmId>2068</filmId>
+    <peopleId>283</peopleId>
+    <roleName>Dr. Dave Bowman</roleName>
+  </Role>
+  <Role>
+    <filmId>2110</filmId>
+    <peopleId>446</peopleId>
+    <roleName>Mrs. Iselin</roleName>
+  </Role>
+  <Role>
+    <filmId>2110</filmId>
+    <peopleId>101</peopleId>
+    <roleName>Eugenie Rose Chaney</roleName>
+  </Role>
+  <Role>
+    <filmId>2110</filmId>
+    <peopleId>445</peopleId>
+    <roleName>Raymond Shaw</roleName>
+  </Role>
+  <Role>
+    <filmId>2110</filmId>
+    <peopleId>444</peopleId>
+    <roleName>Major Bennett Marco</roleName>
+  </Role>
+  <Role>
+    <filmId>2097</filmId>
+    <peopleId>395</peopleId>
+    <roleName>Koko</roleName>
+  </Role>
+  <Role>
+    <filmId>2097</filmId>
+    <peopleId>394</peopleId>
+    <roleName>Society Red</roleName>
+  </Role>
+  <Role>
+    <filmId>2097</filmId>
+    <peopleId>393</peopleId>
+    <roleName>Dragline</roleName>
+  </Role>
+  <Role>
+    <filmId>2097</filmId>
+    <peopleId>392</peopleId>
+    <roleName>Luke</roleName>
+  </Role>
+  <Role>
+    <filmId>2094</filmId>
+    <peopleId>381</peopleId>
+    <roleName>Colonel Miles Quaritch</roleName>
+  </Role>
+  <Role>
+    <filmId>2094</filmId>
+    <peopleId>181</peopleId>
+    <roleName>Dr. Grace Augustine</roleName>
+  </Role>
+  <Role>
+    <filmId>2094</filmId>
+    <peopleId>380</peopleId>
+    <roleName>Neytiri</roleName>
+  </Role>
+  <Role>
+    <filmId>2094</filmId>
+    <peopleId>379</peopleId>
+    <roleName>Jake Sully</roleName>
+  </Role>
+  <Role>
+    <filmId>2206</filmId>
+    <peopleId>72</peopleId>
+    <roleName>Prince John</roleName>
+  </Role>
+  <Role>
+    <filmId>2206</filmId>
+    <peopleId>791</peopleId>
+    <roleName>Sir Guy of Gisbourne</roleName>
+  </Role>
+  <Role>
+    <filmId>2206</filmId>
+    <peopleId>790</peopleId>
+    <roleName>Maid Marian</roleName>
+  </Role>
+  <Role>
+    <filmId>2206</filmId>
+    <peopleId>789</peopleId>
+    <roleName>Robin Hood of Locksley</roleName>
+  </Role>
+  <Role>
+    <filmId>2191</filmId>
+    <peopleId>740</peopleId>
+    <roleName>Hitoshi Takagi</roleName>
+  </Role>
+  <Role>
+    <filmId>2191</filmId>
+    <peopleId>739</peopleId>
+    <roleName>Sumi Shimamoto</roleName>
+  </Role>
+  <Role>
+    <filmId>2191</filmId>
+    <peopleId>738</peopleId>
+    <roleName>Mei</roleName>
+  </Role>
+  <Role>
+    <filmId>2191</filmId>
+    <peopleId>737</peopleId>
+    <roleName>Satsuki</roleName>
+  </Role>
+  <Role>
+    <filmId>2187</filmId>
+    <peopleId>727</peopleId>
+    <roleName>Lt Bob Roland - Firefly's aide-de-camp</roleName>
+  </Role>
+  <Role>
+    <filmId>2187</filmId>
+    <peopleId>726</peopleId>
+    <roleName>Chicolini</roleName>
+  </Role>
+  <Role>
+    <filmId>2187</filmId>
+    <peopleId>725</peopleId>
+    <roleName>Pinky</roleName>
+  </Role>
+  <Role>
+    <filmId>2187</filmId>
+    <peopleId>724</peopleId>
+    <roleName>Rufus T. Firefly</roleName>
+  </Role>
+  <Role>
+    <filmId>2112</filmId>
+    <peopleId>456</peopleId>
+    <roleName>Mufasa</roleName>
+  </Role>
+  <Role>
+    <filmId>2112</filmId>
+    <peopleId>455</peopleId>
+    <roleName>Scar</roleName>
+  </Role>
+  <Role>
+    <filmId>2112</filmId>
+    <peopleId>454</peopleId>
+    <roleName>Adult Simba</roleName>
+  </Role>
+  <Role>
+    <filmId>2112</filmId>
+    <peopleId>453</peopleId>
+    <roleName>Young Simba</roleName>
+  </Role>
+  <Role>
+    <filmId>2107</filmId>
+    <peopleId>434</peopleId>
+    <roleName>Bunny</roleName>
+  </Role>
+  <Role>
+    <filmId>2107</filmId>
+    <peopleId>433</peopleId>
+    <roleName>Rhah</roleName>
+  </Role>
+  <Role>
+    <filmId>2107</filmId>
+    <peopleId>432</peopleId>
+    <roleName>Big Harold</roleName>
+  </Role>
+  <Role>
+    <filmId>2107</filmId>
+    <peopleId>431</peopleId>
+    <roleName>King</roleName>
+  </Role>
+  <Role>
+    <filmId>2163</filmId>
+    <peopleId>142</peopleId>
+    <roleName>Bert Gordon</roleName>
+  </Role>
+  <Role>
+    <filmId>2163</filmId>
+    <peopleId>645</peopleId>
+    <roleName>Sarah Packard</roleName>
+  </Role>
+  <Role>
+    <filmId>2163</filmId>
+    <peopleId>644</peopleId>
+    <roleName>Minnesota Fats</roleName>
+  </Role>
+  <Role>
+    <filmId>2163</filmId>
+    <peopleId>392</peopleId>
+    <roleName>Eddie Felson</roleName>
+  </Role>
+  <Role>
+    <filmId>2016</filmId>
+    <peopleId>76</peopleId>
+    <roleName>Karen Hill</roleName>
+  </Role>
+  <Role>
+    <filmId>2016</filmId>
+    <peopleId>75</peopleId>
+    <roleName>Tommy DeVito</roleName>
+  </Role>
+  <Role>
+    <filmId>2016</filmId>
+    <peopleId>74</peopleId>
+    <roleName>Henry Hill</roleName>
+  </Role>
+  <Role>
+    <filmId>2016</filmId>
+    <peopleId>12</peopleId>
+    <roleName>James 'Jimmy' Conway</roleName>
+  </Role>
+  <Role>
+    <filmId>2061</filmId>
+    <peopleId>260</peopleId>
+    <roleName>Nice Guy Eddie Cabot</roleName>
+  </Role>
+  <Role>
+    <filmId>2061</filmId>
+    <peopleId>259</peopleId>
+    <roleName>Mr. Blonde - Vic Vega</roleName>
+  </Role>
+  <Role>
+    <filmId>2061</filmId>
+    <peopleId>26</peopleId>
+    <roleName>Mr. Orange - Freddy Newandyke</roleName>
+  </Role>
+  <Role>
+    <filmId>2061</filmId>
+    <peopleId>174</peopleId>
+    <roleName>Mr. White - Larry Dimmick</roleName>
+  </Role>
+  <Role>
+    <filmId>2049</filmId>
+    <peopleId>210</peopleId>
+    <roleName>Staff Sgt. Dignam</roleName>
+  </Role>
+  <Role>
+    <filmId>2049</filmId>
+    <peopleId>201</peopleId>
+    <roleName>Frank Costello</roleName>
+  </Role>
+  <Role>
+    <filmId>2049</filmId>
+    <peopleId>209</peopleId>
+    <roleName>Colin Sullivan</roleName>
+  </Role>
+  <Role>
+    <filmId>2049</filmId>
+    <peopleId>14</peopleId>
+    <roleName>Billy Costigan</roleName>
+  </Role>
+  <Role>
+    <filmId>2085</filmId>
+    <peopleId>346</peopleId>
+    <roleName>Gaff</roleName>
+  </Role>
+  <Role>
+    <filmId>2085</filmId>
+    <peopleId>345</peopleId>
+    <roleName>Rachael</roleName>
+  </Role>
+  <Role>
+    <filmId>2085</filmId>
+    <peopleId>344</peopleId>
+    <roleName>Roy Batty</roleName>
+  </Role>
+  <Role>
+    <filmId>2085</filmId>
+    <peopleId>45</peopleId>
+    <roleName>Rick Deckard</roleName>
+  </Role>
+  <Role>
+    <filmId>2060</filmId>
+    <peopleId>258</peopleId>
+    <roleName>Escobar</roleName>
+  </Role>
+  <Role>
+    <filmId>2060</filmId>
+    <peopleId>257</peopleId>
+    <roleName>Noah Cross</roleName>
+  </Role>
+  <Role>
+    <filmId>2060</filmId>
+    <peopleId>256</peopleId>
+    <roleName>Evelyn Mulwray</roleName>
+  </Role>
+  <Role>
+    <filmId>2060</filmId>
+    <peopleId>201</peopleId>
+    <roleName>J.J. Gittes</roleName>
+  </Role>
+  <Role>
+    <filmId>2111</filmId>
+    <peopleId>450</peopleId>
+    <roleName>Saburo Naotora Ichimonji</roleName>
+  </Role>
+  <Role>
+    <filmId>2111</filmId>
+    <peopleId>449</peopleId>
+    <roleName>Jiro Masatora Ichimonji</roleName>
+  </Role>
+  <Role>
+    <filmId>2111</filmId>
+    <peopleId>448</peopleId>
+    <roleName>Taro Takatora Ichimonji</roleName>
+  </Role>
+  <Role>
+    <filmId>2111</filmId>
+    <peopleId>447</peopleId>
+    <roleName>Lord Hidetora Ichimonji</roleName>
+  </Role>
+  <Role>
+    <filmId>2106</filmId>
+    <peopleId>429</peopleId>
+    <roleName>Allison</roleName>
+  </Role>
+  <Role>
+    <filmId>2106</filmId>
+    <peopleId>428</peopleId>
+    <roleName>Rob</roleName>
+  </Role>
+  <Role>
+    <filmId>2106</filmId>
+    <peopleId>11</peopleId>
+    <roleName>Annie Hall</roleName>
+  </Role>
+  <Role>
+    <filmId>2106</filmId>
+    <peopleId>427</peopleId>
+    <roleName>Woddy Allen</roleName>
+  </Role>
+  <Role>
+    <filmId>2093</filmId>
+    <peopleId>378</peopleId>
+    <roleName>The Wizard of Oz</roleName>
+  </Role>
+  <Role>
+    <filmId>2093</filmId>
+    <peopleId>377</peopleId>
+    <roleName>The Carriage Driver</roleName>
+  </Role>
+  <Role>
+    <filmId>2093</filmId>
+    <peopleId>376</peopleId>
+    <roleName>Professor Marvel</roleName>
+  </Role>
+  <Role>
+    <filmId>2093</filmId>
+    <peopleId>375</peopleId>
+    <roleName>Dorothy</roleName>
+  </Role>
+  <Role>
+    <filmId>2029</filmId>
+    <peopleId>130</peopleId>
+    <roleName>Uncle Billy</roleName>
+  </Role>
+  <Role>
+    <filmId>2029</filmId>
+    <peopleId>129</peopleId>
+    <roleName>Henry F. Potter</roleName>
+  </Role>
+  <Role>
+    <filmId>2029</filmId>
+    <peopleId>128</peopleId>
+    <roleName>Mary Hatch Bailey</roleName>
+  </Role>
+  <Role>
+    <filmId>2029</filmId>
+    <peopleId>91</peopleId>
+    <roleName>George Bailey</roleName>
+  </Role>
+  <Role>
+    <filmId>2162</filmId>
+    <peopleId>642</peopleId>
+    <roleName>Ennio Girolami</roleName>
+  </Role>
+  <Role>
+    <filmId>2162</filmId>
+    <peopleId>641</peopleId>
+    <roleName>Dorian Gray</roleName>
+  </Role>
+  <Role>
+    <filmId>2162</filmId>
+    <peopleId>640</peopleId>
+    <roleName>Oscar D'Onofrio</roleName>
+  </Role>
+  <Role>
+    <filmId>2162</filmId>
+    <peopleId>639</peopleId>
+    <roleName>Maria 'Cabiria' Ceccarelli</roleName>
+  </Role>
+  <Role>
+    <filmId>2050</filmId>
+    <peopleId>214</peopleId>
+    <roleName>Gen. Paul Mireau</roleName>
+  </Role>
+  <Role>
+    <filmId>2050</filmId>
+    <peopleId>213</peopleId>
+    <roleName>Gen. George Broulard</roleName>
+  </Role>
+  <Role>
+    <filmId>2050</filmId>
+    <peopleId>212</peopleId>
+    <roleName>Cpl. Philippe Paris</roleName>
+  </Role>
+  <Role>
+    <filmId>2050</filmId>
+    <peopleId>211</peopleId>
+    <roleName>Col. Dax</roleName>
+  </Role>
+  <Role>
+    <filmId>2102</filmId>
+    <peopleId>415</peopleId>
+    <roleName>Brick Top</roleName>
+  </Role>
+  <Role>
+    <filmId>2102</filmId>
+    <peopleId>79</peopleId>
+    <roleName>Mickey O'Neil</roleName>
+  </Role>
+  <Role>
+    <filmId>2102</filmId>
+    <peopleId>109</peopleId>
+    <roleName>Franky Four Fingers</roleName>
+  </Role>
+  <Role>
+    <filmId>2102</filmId>
+    <peopleId>414</peopleId>
+    <roleName>Turkish</roleName>
+  </Role>
+  <Role>
+    <filmId>2012</filmId>
+    <peopleId>60</peopleId>
+    <roleName>Rikichi's Wife</roleName>
+  </Role>
+  <Role>
+    <filmId>2012</filmId>
+    <peopleId>59</peopleId>
+    <roleName>Shino</roleName>
+  </Role>
+  <Role>
+    <filmId>2012</filmId>
+    <peopleId>58</peopleId>
+    <roleName>Kanbe Shimada</roleName>
+  </Role>
+  <Role>
+    <filmId>2012</filmId>
+    <peopleId>57</peopleId>
+    <roleName>Kikuchiyo</roleName>
+  </Role>
+  <Role>
+    <filmId>2037</filmId>
+    <peopleId>163</peopleId>
+    <roleName>Jay 'Chef' Hicks</roleName>
+  </Role>
+  <Role>
+    <filmId>2037</filmId>
+    <peopleId>10</peopleId>
+    <roleName>Lieutenant Colonel Bill Kilgore</roleName>
+  </Role>
+  <Role>
+    <filmId>2037</filmId>
+    <peopleId>162</peopleId>
+    <roleName>Captain Benjamin L. Willard</roleName>
+  </Role>
+  <Role>
+    <filmId>2037</filmId>
+    <peopleId>6</peopleId>
+    <roleName>Colonel Walter E. Kurtz</roleName>
+  </Role>
+  <Role>
+    <filmId>2031</filmId>
+    <peopleId>138</peopleId>
+    <roleName>Betty Schaefer</roleName>
+  </Role>
+  <Role>
+    <filmId>2031</filmId>
+    <peopleId>137</peopleId>
+    <roleName>Max Von Mayerling</roleName>
+  </Role>
+  <Role>
+    <filmId>2031</filmId>
+    <peopleId>136</peopleId>
+    <roleName>Norma Desmond</roleName>
+  </Role>
+  <Role>
+    <filmId>2031</filmId>
+    <peopleId>135</peopleId>
+    <roleName>Joe Gillis</roleName>
+  </Role>
+  <Role>
+    <filmId>2025</filmId>
+    <peopleId>115</peopleId>
+    <roleName>Jame 'Buffalo Bill' Gumb</roleName>
+  </Role>
+  <Role>
+    <filmId>2025</filmId>
+    <peopleId>114</peopleId>
+    <roleName>Dr. Hannibal Lecter</roleName>
+  </Role>
+  <Role>
+    <filmId>2025</filmId>
+    <peopleId>113</peopleId>
+    <roleName>Jack Crawford</roleName>
+  </Role>
+  <Role>
+    <filmId>2025</filmId>
+    <peopleId>112</peopleId>
+    <roleName>Clarice Starling</roleName>
+  </Role>
+  <Role>
+    <filmId>2030</filmId>
+    <peopleId>133</peopleId>
+    <roleName>Man Flesh Uruk</roleName>
+  </Role>
+  <Role>
+    <filmId>2030</filmId>
+    <peopleId>132</peopleId>
+    <roleName>Madril</roleName>
+  </Role>
+  <Role>
+    <filmId>2030</filmId>
+    <peopleId>54</peopleId>
+    <roleName>Samwise 'Sam' Gamgee</roleName>
+  </Role>
+  <Role>
+    <filmId>2030</filmId>
+    <peopleId>131</peopleId>
+    <roleName>Aldor</roleName>
+  </Role>
+  <Role>
+    <filmId>2104</filmId>
+    <peopleId>422</peopleId>
+    <roleName>Captain Paul Prescott</roleName>
+  </Role>
+  <Role>
+    <filmId>2104</filmId>
+    <peopleId>72</peopleId>
+    <roleName>Alexander Sebastian</roleName>
+  </Role>
+  <Role>
+    <filmId>2104</filmId>
+    <peopleId>70</peopleId>
+    <roleName>Alicia Huberman</roleName>
+  </Role>
+  <Role>
+    <filmId>2104</filmId>
+    <peopleId>153</peopleId>
+    <roleName>T.R. Devlin</roleName>
+  </Role>
+  <Role>
+    <filmId>2143</filmId>
+    <peopleId>576</peopleId>
+    <roleName>Dorris Bowdon</roleName>
+  </Role>
+  <Role>
+    <filmId>2143</filmId>
+    <peopleId>575</peopleId>
+    <roleName>Casy</roleName>
+  </Role>
+  <Role>
+    <filmId>2143</filmId>
+    <peopleId>574</peopleId>
+    <roleName>Ma Joad</roleName>
+  </Role>
+  <Role>
+    <filmId>2143</filmId>
+    <peopleId>102</peopleId>
+    <roleName>Tom Joad</roleName>
+  </Role>
+  <Role>
+    <filmId>2115</filmId>
+    <peopleId>467</peopleId>
+    <roleName>Danger Barch</roleName>
+  </Role>
+  <Role>
+    <filmId>2115</filmId>
+    <peopleId>2</peopleId>
+    <roleName>Eddie Scrap-Iron Dupris</roleName>
+  </Role>
+  <Role>
+    <filmId>2115</filmId>
+    <peopleId>466</peopleId>
+    <roleName>Maggie Fitzgerald</roleName>
+  </Role>
+  <Role>
+    <filmId>2115</filmId>
+    <peopleId>20</peopleId>
+    <roleName>Frankie Dunn</roleName>
+  </Role>
+  <Role>
+    <filmId>2089</filmId>
+    <peopleId>364</peopleId>
+    <roleName>Carson Wells</roleName>
+  </Role>
+  <Role>
+    <filmId>2089</filmId>
+    <peopleId>363</peopleId>
+    <roleName>Llewelyn Moss</roleName>
+  </Role>
+  <Role>
+    <filmId>2089</filmId>
+    <peopleId>362</peopleId>
+    <roleName>Anton Chigurh</roleName>
+  </Role>
+  <Role>
+    <filmId>2089</filmId>
+    <peopleId>361</peopleId>
+    <roleName>Ed Tom Bell</roleName>
+  </Role>
+  <Role>
+    <filmId>2009</filmId>
+    <peopleId>47</peopleId>
+    <roleName>Lando Calrissian</roleName>
+  </Role>
+  <Role>
+    <filmId>2009</filmId>
+    <peopleId>46</peopleId>
+    <roleName>Princess Leia</roleName>
+  </Role>
+  <Role>
+    <filmId>2009</filmId>
+    <peopleId>45</peopleId>
+    <roleName>Han Solo</roleName>
+  </Role>
+  <Role>
+    <filmId>2009</filmId>
+    <peopleId>44</peopleId>
+    <roleName>Luke Skywalker</roleName>
+  </Role>
+  <Role>
+    <filmId>2070</filmId>
+    <peopleId>294</peopleId>
+    <roleName>Lina Lamont</roleName>
+  </Role>
+  <Role>
+    <filmId>2070</filmId>
+    <peopleId>293</peopleId>
+    <roleName>Kathy Selden</roleName>
+  </Role>
+  <Role>
+    <filmId>2070</filmId>
+    <peopleId>292</peopleId>
+    <roleName>Cosmo Brown</roleName>
+  </Role>
+  <Role>
+    <filmId>2070</filmId>
+    <peopleId>291</peopleId>
+    <roleName>Don Lockwood</roleName>
+  </Role>
+  <Role>
+    <filmId>2159</filmId>
+    <peopleId>630</peopleId>
+    <roleName>Overweight Woman #2</roleName>
+  </Role>
+  <Role>
+    <filmId>2159</filmId>
+    <peopleId>629</peopleId>
+    <roleName>Olivier Bonjour</roleName>
+  </Role>
+  <Role>
+    <filmId>2159</filmId>
+    <peopleId>628</peopleId>
+    <roleName>Natalie</roleName>
+  </Role>
+  <Role>
+    <filmId>2063</filmId>
+    <peopleId>266</peopleId>
+    <roleName>Major Calloway</roleName>
+  </Role>
+  <Role>
+    <filmId>2063</filmId>
+    <peopleId>157</peopleId>
+    <roleName>Harry Lime</roleName>
+  </Role>
+  <Role>
+    <filmId>2063</filmId>
+    <peopleId>265</peopleId>
+    <roleName>Anna Schmidt</roleName>
+  </Role>
+  <Role>
+    <filmId>2063</filmId>
+    <peopleId>158</peopleId>
+    <roleName>Holly Martins</roleName>
+  </Role>
+  <Role>
+    <filmId>2126</filmId>
+    <peopleId>508</peopleId>
+    <roleName>Suellen</roleName>
+  </Role>
+  <Role>
+    <filmId>2126</filmId>
+    <peopleId>507</peopleId>
+    <roleName>Scarlett</roleName>
+  </Role>
+  <Role>
+    <filmId>2126</filmId>
+    <peopleId>506</peopleId>
+    <roleName>Ellen O'Hara - His Wife</roleName>
+  </Role>
+  <Role>
+    <filmId>2126</filmId>
+    <peopleId>130</peopleId>
+    <roleName>Gerald O'Hara</roleName>
+  </Role>
+  <Role>
+    <filmId>2129</filmId>
+    <peopleId>518</peopleId>
+    <roleName>Ned</roleName>
+  </Role>
+  <Role>
+    <filmId>2129</filmId>
+    <peopleId>517</peopleId>
+    <roleName>Larry</roleName>
+  </Role>
+  <Role>
+    <filmId>2129</filmId>
+    <peopleId>516</peopleId>
+    <roleName>Rita</roleName>
+  </Role>
+  <Role>
+    <filmId>2129</filmId>
+    <peopleId>515</peopleId>
+    <roleName>Phil</roleName>
+  </Role>
+  <Role>
+    <filmId>2132</filmId>
+    <peopleId>531</peopleId>
+    <roleName>Palmer</roleName>
+  </Role>
+  <Role>
+    <filmId>2132</filmId>
+    <peopleId>530</peopleId>
+    <roleName>Nauls</roleName>
+  </Role>
+  <Role>
+    <filmId>2132</filmId>
+    <peopleId>529</peopleId>
+    <roleName>Dr. Blair</roleName>
+  </Role>
+  <Role>
+    <filmId>2132</filmId>
+    <peopleId>528</peopleId>
+    <roleName>R.J. MacReady</roleName>
+  </Role>
+  <Role>
+    <filmId>2184</filmId>
+    <peopleId>716</peopleId>
+    <roleName>Daniel Couturier</roleName>
+  </Role>
+  <Role>
+    <filmId>2184</filmId>
+    <peopleId>715</peopleId>
+    <roleName>Georges Flamant</roleName>
+  </Role>
+  <Role>
+    <filmId>2184</filmId>
+    <peopleId>714</peopleId>
+    <roleName>Albert Remy</roleName>
+  </Role>
+  <Role>
+    <filmId>2184</filmId>
+    <peopleId>713</peopleId>
+    <roleName>Antoine Doinel</roleName>
+  </Role>
+  <Role>
+    <filmId>2013</filmId>
+    <peopleId>62</peopleId>
+    <roleName>Grand Moff Tarkin</roleName>
+  </Role>
+  <Role>
+    <filmId>2013</filmId>
+    <peopleId>46</peopleId>
+    <roleName>Princess Leia Organa</roleName>
+  </Role>
+  <Role>
+    <filmId>2013</filmId>
+    <peopleId>45</peopleId>
+    <roleName>Han Solo</roleName>
+  </Role>
+  <Role>
+    <filmId>2013</filmId>
+    <peopleId>44</peopleId>
+    <roleName>Luke Skywalker</roleName>
+  </Role>
+  <Role>
+    <filmId>2146</filmId>
+    <peopleId>584</peopleId>
+    <roleName>Carla</roleName>
+  </Role>
+  <Role>
+    <filmId>2146</filmId>
+    <peopleId>583</peopleId>
+    <roleName>Luisa Anselmi</roleName>
+  </Role>
+  <Role>
+    <filmId>2146</filmId>
+    <peopleId>103</peopleId>
+    <roleName>Claudia</roleName>
+  </Role>
+  <Role>
+    <filmId>2146</filmId>
+    <peopleId>582</peopleId>
+    <roleName>Guido Anselmi</roleName>
+  </Role>
+  <Role>
+    <filmId>2021</filmId>
+    <peopleId>97</peopleId>
+    <roleName>Major Arnold Toht</roleName>
+  </Role>
+  <Role>
+    <filmId>2021</filmId>
+    <peopleId>96</peopleId>
+    <roleName>Dr. Rene Belloq</roleName>
+  </Role>
+  <Role>
+    <filmId>2021</filmId>
+    <peopleId>95</peopleId>
+    <roleName>Marion Ravenwood</roleName>
+  </Role>
+  <Role>
+    <filmId>2021</filmId>
+    <peopleId>45</peopleId>
+    <roleName>Indiana Jones</roleName>
+  </Role>
+  <Role>
+    <filmId>2024</filmId>
+    <peopleId>110</peopleId>
+    <roleName>Todd Hockney</roleName>
+  </Role>
+  <Role>
+    <filmId>2024</filmId>
+    <peopleId>109</peopleId>
+    <roleName>Fred Fenster</roleName>
+  </Role>
+  <Role>
+    <filmId>2024</filmId>
+    <peopleId>108</peopleId>
+    <roleName>Dean Keaton</roleName>
+  </Role>
+  <Role>
+    <filmId>2024</filmId>
+    <peopleId>107</peopleId>
+    <roleName>Michael McManus</roleName>
+  </Role>
+  <Role>
+    <filmId>2183</filmId>
+    <peopleId>711</peopleId>
+    <roleName>Captain of Louisa</roleName>
+  </Role>
+  <Role>
+    <filmId>2183</filmId>
+    <peopleId>710</peopleId>
+    <roleName>Rev. Samuel Sayer</roleName>
+  </Role>
+  <Role>
+    <filmId>2183</filmId>
+    <peopleId>709</peopleId>
+    <roleName>Rose Sayer</roleName>
+  </Role>
+  <Role>
+    <filmId>2183</filmId>
+    <peopleId>69</peopleId>
+    <roleName>Charlie Allnut</roleName>
+  </Role>
+  <Role>
+    <filmId>2161</filmId>
+    <peopleId>638</peopleId>
+    <roleName>Prof. Gerald Lambeau</roleName>
+  </Role>
+  <Role>
+    <filmId>2161</filmId>
+    <peopleId>637</peopleId>
+    <roleName>Chuckie Sullivan</roleName>
+  </Role>
+  <Role>
+    <filmId>2161</filmId>
+    <peopleId>209</peopleId>
+    <roleName>Will Hunting</roleName>
+  </Role>
+  <Role>
+    <filmId>2161</filmId>
+    <peopleId>636</peopleId>
+    <roleName>Sean Maguire</roleName>
+  </Role>
+  <Role>
+    <filmId>2015</filmId>
+    <peopleId>72</peopleId>
+    <roleName>Captain Renault</roleName>
+  </Role>
+  <Role>
+    <filmId>2015</filmId>
+    <peopleId>71</peopleId>
+    <roleName>Victor Laszlo</roleName>
+  </Role>
+  <Role>
+    <filmId>2015</filmId>
+    <peopleId>70</peopleId>
+    <roleName>Ilsa Lund</roleName>
+  </Role>
+  <Role>
+    <filmId>2015</filmId>
+    <peopleId>69</peopleId>
+    <roleName>Rick Blaine</roleName>
+  </Role>
+  <Role>
+    <filmId>2202</filmId>
+    <peopleId>773</peopleId>
+    <roleName>William Hickey</roleName>
+  </Role>
+  <Role>
+    <filmId>2202</filmId>
+    <peopleId>772</peopleId>
+    <roleName>Sally</roleName>
+  </Role>
+  <Role>
+    <filmId>2202</filmId>
+    <peopleId>537</peopleId>
+    <roleName>Jack Skellington</roleName>
+  </Role>
+  <Role>
+    <filmId>2202</filmId>
+    <peopleId>771</peopleId>
+    <roleName>Jack Skellington - Singing Voice</roleName>
+  </Role>
+  <Role>
+    <filmId>2133</filmId>
+    <peopleId>535</peopleId>
+    <roleName>Daniel</roleName>
+  </Role>
+  <Role>
+    <filmId>2133</filmId>
+    <peopleId>534</peopleId>
+    <roleName>Valeria</roleName>
+  </Role>
+  <Role>
+    <filmId>2133</filmId>
+    <peopleId>533</peopleId>
+    <roleName>Octavio</roleName>
+  </Role>
+  <Role>
+    <filmId>2133</filmId>
+    <peopleId>532</peopleId>
+    <roleName>El Chivo</roleName>
+  </Role>
+  <Role>
+    <filmId>2032</filmId>
+    <peopleId>143</peopleId>
+    <roleName>Brigadier General Jack Ripper</roleName>
+  </Role>
+  <Role>
+    <filmId>2032</filmId>
+    <peopleId>142</peopleId>
+    <roleName>General 'Buck' Turgidson</roleName>
+  </Role>
+  <Role>
+    <filmId>2032</filmId>
+    <peopleId>141</peopleId>
+    <roleName>Dr. Strangelove</roleName>
+  </Role>
+  <Role>
+    <filmId>2032</filmId>
+    <peopleId>140</peopleId>
+    <roleName>Group Captain Lionel Mandrake</roleName>
+  </Role>
+  <Role>
+    <filmId>2075</filmId>
+    <peopleId>314</peopleId>
+    <roleName>Dr. Elsa Schneider</roleName>
+  </Role>
+  <Role>
+    <filmId>2075</filmId>
+    <peopleId>313</peopleId>
+    <roleName>Marcus Brody</roleName>
+  </Role>
+  <Role>
+    <filmId>2075</filmId>
+    <peopleId>312</peopleId>
+    <roleName>Professor Henry Jones</roleName>
+  </Role>
+  <Role>
+    <filmId>2075</filmId>
+    <peopleId>45</peopleId>
+    <roleName>Indiana Jones</roleName>
+  </Role>
+  <Role>
+    <filmId>2179</filmId>
+    <peopleId>699</peopleId>
+    <roleName>Joseph Newton</roleName>
+  </Role>
+  <Role>
+    <filmId>2179</filmId>
+    <peopleId>698</peopleId>
+    <roleName>Jack Graham</roleName>
+  </Role>
+  <Role>
+    <filmId>2179</filmId>
+    <peopleId>158</peopleId>
+    <roleName>Uncle Charlie Oakley</roleName>
+  </Role>
+  <Role>
+    <filmId>2078</filmId>
+    <peopleId>322</peopleId>
+    <roleName>Giulio Chiari</roleName>
+  </Role>
+  <Role>
+    <filmId>2078</filmId>
+    <peopleId>321</peopleId>
+    <roleName>Gino Saltamerenda</roleName>
+  </Role>
+  <Role>
+    <filmId>2078</filmId>
+    <peopleId>320</peopleId>
+    <roleName>Bruno Ricci</roleName>
+  </Role>
+  <Role>
+    <filmId>2078</filmId>
+    <peopleId>319</peopleId>
+    <roleName>Antonio Ricci</roleName>
+  </Role>
+  <Role>
+    <filmId>2173</filmId>
+    <peopleId>10</peopleId>
+    <roleName>Frank Hackett</roleName>
+  </Role>
+  <Role>
+    <filmId>2173</filmId>
+    <peopleId>682</peopleId>
+    <roleName>Howard Beale</roleName>
+  </Role>
+  <Role>
+    <filmId>2173</filmId>
+    <peopleId>135</peopleId>
+    <roleName>Max Schumacher</roleName>
+  </Role>
+  <Role>
+    <filmId>2173</filmId>
+    <peopleId>256</peopleId>
+    <roleName>Diana Christensen</roleName>
+  </Role>
+  <Role>
+    <filmId>2095</filmId>
+    <peopleId>386</peopleId>
+    <roleName>Dr Katrina McKenzie</roleName>
+  </Role>
+  <Role>
+    <filmId>2095</filmId>
+    <peopleId>385</peopleId>
+    <roleName>Sarah Livingstone - Sociologist</roleName>
+  </Role>
+  <Role>
+    <filmId>2095</filmId>
+    <peopleId>384</peopleId>
+    <roleName>Grey Bradnam - UKNR Chief Correspondent</roleName>
+  </Role>
+  <Role>
+    <filmId>2095</filmId>
+    <peopleId>383</peopleId>
+    <roleName>Wikus Van De Merwe</roleName>
+  </Role>
+  <Role>
+    <filmId>2127</filmId>
+    <peopleId>509</peopleId>
+    <roleName>Lieutenant Ed Traxler</roleName>
+  </Role>
+  <Role>
+    <filmId>2127</filmId>
+    <peopleId>177</peopleId>
+    <roleName>Sarah Connor</roleName>
+  </Role>
+  <Role>
+    <filmId>2127</filmId>
+    <peopleId>226</peopleId>
+    <roleName>Kyle Reese</roleName>
+  </Role>
+  <Role>
+    <filmId>2127</filmId>
+    <peopleId>176</peopleId>
+    <roleName>The Terminator</roleName>
+  </Role>
+  <Role>
+    <filmId>2176</filmId>
+    <peopleId>119</peopleId>
+    <roleName>Sgt. Whitey Powers</roleName>
+  </Role>
+  <Role>
+    <filmId>2176</filmId>
+    <peopleId>690</peopleId>
+    <roleName>Sean Devine</roleName>
+  </Role>
+  <Role>
+    <filmId>2176</filmId>
+    <peopleId>1</peopleId>
+    <roleName>Dave Boyle</roleName>
+  </Role>
+  <Role>
+    <filmId>2176</filmId>
+    <peopleId>457</peopleId>
+    <roleName>Jimmy Markum</roleName>
+  </Role>
+  <Role>
+    <filmId>2207</filmId>
+    <peopleId>794</peopleId>
+    <roleName>Dr. Bruner</roleName>
+  </Role>
+  <Role>
+    <filmId>2207</filmId>
+    <peopleId>793</peopleId>
+    <roleName>Susanna</roleName>
+  </Role>
+  <Role>
+    <filmId>2207</filmId>
+    <peopleId>685</peopleId>
+    <roleName>Charlie Babbitt</roleName>
+  </Role>
+  <Role>
+    <filmId>2207</filmId>
+    <peopleId>526</peopleId>
+    <roleName>Raymond Babbitt</roleName>
+  </Role>
+  <Role>
+    <filmId>2005</filmId>
+    <peopleId>27</peopleId>
+    <roleName>Honey Bunny - Yolanda</roleName>
+  </Role>
+  <Role>
+    <filmId>2005</filmId>
+    <peopleId>26</peopleId>
+    <roleName>Pumpkin - Ringo</roleName>
+  </Role>
+  <Role>
+    <filmId>2005</filmId>
+    <peopleId>25</peopleId>
+    <roleName>Jules Winnfield</roleName>
+  </Role>
+  <Role>
+    <filmId>2005</filmId>
+    <peopleId>24</peopleId>
+    <roleName>Vincent Vega</roleName>
+  </Role>
+  <Role>
+    <filmId>2059</filmId>
+    <peopleId>255</peopleId>
+    <roleName>Tyrone C. Love</roleName>
+  </Role>
+  <Role>
+    <filmId>2059</filmId>
+    <peopleId>254</peopleId>
+    <roleName>Marion Silver</roleName>
+  </Role>
+  <Role>
+    <filmId>2059</filmId>
+    <peopleId>253</peopleId>
+    <roleName>Harry Goldfarb</roleName>
+  </Role>
+  <Role>
+    <filmId>2059</filmId>
+    <peopleId>252</peopleId>
+    <roleName>Sara Goldfarb</roleName>
+  </Role>
+  <Role>
+    <filmId>2017</filmId>
+    <peopleId>81</peopleId>
+    <roleName>Robert 'Bob' Paulson</roleName>
+  </Role>
+  <Role>
+    <filmId>2017</filmId>
+    <peopleId>80</peopleId>
+    <roleName>Marla Singer</roleName>
+  </Role>
+  <Role>
+    <filmId>2017</filmId>
+    <peopleId>79</peopleId>
+    <roleName>Tyler Durden</roleName>
+  </Role>
+  <Role>
+    <filmId>2017</filmId>
+    <peopleId>78</peopleId>
+    <roleName>The Narrator</roleName>
+  </Role>
+  <Role>
+    <filmId>2170</filmId>
+    <peopleId>340</peopleId>
+    <roleName>Harold 'Mitch' Mitchell</roleName>
+  </Role>
+  <Role>
+    <filmId>2170</filmId>
+    <peopleId>672</peopleId>
+    <roleName>Stella Kowalski</roleName>
+  </Role>
+  <Role>
+    <filmId>2170</filmId>
+    <peopleId>6</peopleId>
+    <roleName>Stanley Kowalski</roleName>
+  </Role>
+  <Role>
+    <filmId>2170</filmId>
+    <peopleId>507</peopleId>
+    <roleName>Blanche DuBois</roleName>
+  </Role>
+  <Role>
+    <filmId>2196</filmId>
+    <peopleId>163</peopleId>
+    <roleName>Mark</roleName>
+  </Role>
+  <Role>
+    <filmId>2196</filmId>
+    <peopleId>751</peopleId>
+    <roleName>William P. 'Bernie' Moran</roleName>
+  </Role>
+  <Role>
+    <filmId>2196</filmId>
+    <peopleId>410</peopleId>
+    <roleName>Stan</roleName>
+  </Role>
+  <Role>
+    <filmId>2196</filmId>
+    <peopleId>316</peopleId>
+    <roleName>Harry Caul</roleName>
+  </Role>
+  <Role>
+    <filmId>2114</filmId>
+    <peopleId>465</peopleId>
+    <roleName>Carmen Sternwood</roleName>
+  </Role>
+  <Role>
+    <filmId>2114</filmId>
+    <peopleId>464</peopleId>
+    <roleName>Eddie Mars</roleName>
+  </Role>
+  <Role>
+    <filmId>2114</filmId>
+    <peopleId>463</peopleId>
+    <roleName>Vivian Rutledge</roleName>
+  </Role>
+  <Role>
+    <filmId>2114</filmId>
+    <peopleId>69</peopleId>
+    <roleName>Philip Marlowe</roleName>
+  </Role>
+  <Role>
+    <filmId>2172</filmId>
+    <peopleId>681</peopleId>
+    <roleName>Karin Bergquist</roleName>
+  </Role>
+  <Role>
+    <filmId>2172</filmId>
+    <peopleId>680</peopleId>
+    <roleName>Hakan</roleName>
+  </Role>
+  <Role>
+    <filmId>2172</filmId>
+    <peopleId>679</peopleId>
+    <roleName>Eli</roleName>
+  </Role>
+  <Role>
+    <filmId>2172</filmId>
+    <peopleId>678</peopleId>
+    <roleName>Oskar</roleName>
+  </Role>
+  <Role>
+    <filmId>2040</filmId>
+    <peopleId>174</peopleId>
+    <roleName>Matthew 'Sport' Higgins</roleName>
+  </Role>
+  <Role>
+    <filmId>2040</filmId>
+    <peopleId>173</peopleId>
+    <roleName>Betsy</roleName>
+  </Role>
+  <Role>
+    <filmId>2040</filmId>
+    <peopleId>112</peopleId>
+    <roleName>Iris</roleName>
+  </Role>
+  <Role>
+    <filmId>2040</filmId>
+    <peopleId>12</peopleId>
+    <roleName>Travis Bickle</roleName>
+  </Role>
+  <Role>
+    <filmId>2152</filmId>
+    <peopleId>604</peopleId>
+    <roleName>Astrid</roleName>
+  </Role>
+  <Role>
+    <filmId>2152</filmId>
+    <peopleId>603</peopleId>
+    <roleName>Gobber</roleName>
+  </Role>
+  <Role>
+    <filmId>2152</filmId>
+    <peopleId>602</peopleId>
+    <roleName>Stoick</roleName>
+  </Role>
+  <Role>
+    <filmId>2152</filmId>
+    <peopleId>467</peopleId>
+    <roleName>Hiccup</roleName>
+  </Role>
+  <Role>
+    <filmId>2142</filmId>
+    <peopleId>572</peopleId>
+    <roleName>Nero</roleName>
+  </Role>
+  <Role>
+    <filmId>2142</filmId>
+    <peopleId>571</peopleId>
+    <roleName>Spock Prime</roleName>
+  </Role>
+  <Role>
+    <filmId>2142</filmId>
+    <peopleId>570</peopleId>
+    <roleName>Spock</roleName>
+  </Role>
+  <Role>
+    <filmId>2142</filmId>
+    <peopleId>569</peopleId>
+    <roleName>James T. Kirk</roleName>
+  </Role>
+  <Role>
+    <filmId>2053</filmId>
+    <peopleId>227</peopleId>
+    <roleName>Bishop</roleName>
+  </Role>
+  <Role>
+    <filmId>2053</filmId>
+    <peopleId>226</peopleId>
+    <roleName>Cpl. Dwayne Hicks</roleName>
+  </Role>
+  <Role>
+    <filmId>2053</filmId>
+    <peopleId>225</peopleId>
+    <roleName>Rebecca 'Newt' Jorden</roleName>
+  </Role>
+  <Role>
+    <filmId>2053</filmId>
+    <peopleId>181</peopleId>
+    <roleName>Ellen Ripley</roleName>
+  </Role>
+  <Role>
+    <filmId>2209</filmId>
+    <peopleId>801</peopleId>
+    <roleName>Ryunosuke Kamiki</roleName>
+  </Role>
+  <Role>
+    <filmId>2209</filmId>
+    <peopleId>800</peopleId>
+    <roleName>Tatsuya Gashuin</roleName>
+  </Role>
+  <Role>
+    <filmId>2209</filmId>
+    <peopleId>799</peopleId>
+    <roleName>Hauru</roleName>
+  </Role>
+  <Role>
+    <filmId>2209</filmId>
+    <peopleId>798</peopleId>
+    <roleName>Sofi</roleName>
+  </Role>
+  <Role>
+    <filmId>2192</filmId>
+    <peopleId>742</peopleId>
+    <roleName>Stinky Pete the Prospector</roleName>
+  </Role>
+  <Role>
+    <filmId>2192</filmId>
+    <peopleId>66</peopleId>
+    <roleName>Jessie the Yodeling Cowgirl</roleName>
+  </Role>
+  <Role>
+    <filmId>2192</filmId>
+    <peopleId>65</peopleId>
+    <roleName>Buzz Lightyear</roleName>
+  </Role>
+  <Role>
+    <filmId>2192</filmId>
+    <peopleId>64</peopleId>
+    <roleName>Woody</roleName>
+  </Role>
+  <Role>
+    <filmId>2186</filmId>
+    <peopleId>316</peopleId>
+    <roleName>Buck Barrow</roleName>
+  </Role>
+  <Role>
+    <filmId>2186</filmId>
+    <peopleId>722</peopleId>
+    <roleName>C.W. Moss</roleName>
+  </Role>
+  <Role>
+    <filmId>2186</filmId>
+    <peopleId>256</peopleId>
+    <roleName>Bonnie Parker</roleName>
+  </Role>
+  <Role>
+    <filmId>2186</filmId>
+    <peopleId>721</peopleId>
+    <roleName>Clyde Barrow</roleName>
+  </Role>
+  <Role>
+    <filmId>2047</filmId>
+    <peopleId>204</peopleId>
+    <roleName>Dick Hallorann</roleName>
+  </Role>
+  <Role>
+    <filmId>2047</filmId>
+    <peopleId>203</peopleId>
+    <roleName>Danny Torrance</roleName>
+  </Role>
+  <Role>
+    <filmId>2047</filmId>
+    <peopleId>202</peopleId>
+    <roleName>Wendy Torrance</roleName>
+  </Role>
+  <Role>
+    <filmId>2047</filmId>
+    <peopleId>201</peopleId>
+    <roleName>Jack Torrance</roleName>
+  </Role>
+  <Role>
+    <filmId>2117</filmId>
+    <peopleId>474</peopleId>
+    <roleName>Miss Plimsoll</roleName>
+  </Role>
+  <Role>
+    <filmId>2117</filmId>
+    <peopleId>473</peopleId>
+    <roleName>Sir Wilfrid Robarts</roleName>
+  </Role>
+  <Role>
+    <filmId>2117</filmId>
+    <peopleId>472</peopleId>
+    <roleName>Christine Vole</roleName>
+  </Role>
+  <Role>
+    <filmId>2117</filmId>
+    <peopleId>471</peopleId>
+    <roleName>Leonard Vole</roleName>
+  </Role>
+  <Role>
+    <filmId>2035</filmId>
+    <peopleId>156</peopleId>
+    <roleName>Clara Thornhill</roleName>
+  </Role>
+  <Role>
+    <filmId>2035</filmId>
+    <peopleId>155</peopleId>
+    <roleName>Phillip Vandamm</roleName>
+  </Role>
+  <Role>
+    <filmId>2035</filmId>
+    <peopleId>154</peopleId>
+    <roleName>Eve Kendall</roleName>
+  </Role>
+  <Role>
+    <filmId>2035</filmId>
+    <peopleId>153</peopleId>
+    <roleName>Roger O. Thornhill</roleName>
+  </Role>
+  <Role>
+    <filmId>2048</filmId>
+    <peopleId>208</peopleId>
+    <roleName>Dim</roleName>
+  </Role>
+  <Role>
+    <filmId>2048</filmId>
+    <peopleId>207</peopleId>
+    <roleName>Chief Guard</roleName>
+  </Role>
+  <Role>
+    <filmId>2048</filmId>
+    <peopleId>206</peopleId>
+    <roleName>Mr Alexander</roleName>
+  </Role>
+  <Role>
+    <filmId>2048</filmId>
+    <peopleId>205</peopleId>
+    <roleName>Alex</roleName>
+  </Role>
+  <Role>
+    <filmId>2003</filmId>
+    <peopleId>17</peopleId>
+    <roleName>Eames</roleName>
+  </Role>
+  <Role>
+    <filmId>2003</filmId>
+    <peopleId>16</peopleId>
+    <roleName>Ariadne</roleName>
+  </Role>
+  <Role>
+    <filmId>2003</filmId>
+    <peopleId>15</peopleId>
+    <roleName>Arthur</roleName>
+  </Role>
+  <Role>
+    <filmId>2003</filmId>
+    <peopleId>14</peopleId>
+    <roleName>Cobb</roleName>
+  </Role>
+  <Role>
+    <filmId>2135</filmId>
+    <peopleId>542</peopleId>
+    <roleName>Ricardo Morales</roleName>
+  </Role>
+  <Role>
+    <filmId>2135</filmId>
+    <peopleId>541</peopleId>
+    <roleName>Liliana Coloto</roleName>
+  </Role>
+  <Role>
+    <filmId>2135</filmId>
+    <peopleId>540</peopleId>
+    <roleName>Benjamin Esposito</roleName>
+  </Role>
+  <Role>
+    <filmId>2135</filmId>
+    <peopleId>539</peopleId>
+    <roleName>Irene Menendez Hastings</roleName>
+  </Role>
+  <Role>
+    <filmId>2081</filmId>
+    <peopleId>332</peopleId>
+    <roleName>Karl</roleName>
+  </Role>
+  <Role>
+    <filmId>2081</filmId>
+    <peopleId>331</peopleId>
+    <roleName>Holly Gennaro McClane</roleName>
+  </Role>
+  <Role>
+    <filmId>2081</filmId>
+    <peopleId>330</peopleId>
+    <roleName>Hans Gruber</roleName>
+  </Role>
+  <Role>
+    <filmId>2081</filmId>
+    <peopleId>329</peopleId>
+    <roleName>Officer John McClane</roleName>
+  </Role>
+  <Role>
+    <filmId>2044</filmId>
+    <peopleId>191</peopleId>
+    <roleName>General Allenby</roleName>
+  </Role>
+  <Role>
+    <filmId>2044</filmId>
+    <peopleId>190</peopleId>
+    <roleName>Auda Abu Tayi</roleName>
+  </Role>
+  <Role>
+    <filmId>2044</filmId>
+    <peopleId>189</peopleId>
+    <roleName>Prince Feisal</roleName>
+  </Role>
+  <Role>
+    <filmId>2044</filmId>
+    <peopleId>188</peopleId>
+    <roleName>T.E. Lawrence</roleName>
+  </Role>
+  <Role>
+    <filmId>2086</filmId>
+    <peopleId>351</peopleId>
+    <roleName>George Rutaganda</roleName>
+  </Role>
+  <Role>
+    <filmId>2086</filmId>
+    <peopleId>350</peopleId>
+    <roleName>Dube</roleName>
+  </Role>
+  <Role>
+    <filmId>2086</filmId>
+    <peopleId>349</peopleId>
+    <roleName>Paul Rusesabagina</roleName>
+  </Role>
+  <Role>
+    <filmId>2086</filmId>
+    <peopleId>348</peopleId>
+    <roleName>Policeman</roleName>
+  </Role>
+  <Role>
+    <filmId>2139</filmId>
+    <peopleId>414</peopleId>
+    <roleName>Bacon</roleName>
+  </Role>
+  <Role>
+    <filmId>2139</filmId>
+    <peopleId>558</peopleId>
+    <roleName>Eddy</roleName>
+  </Role>
+  <Role>
+    <filmId>2139</filmId>
+    <peopleId>557</peopleId>
+    <roleName>Soap</roleName>
+  </Role>
+  <Role>
+    <filmId>2139</filmId>
+    <peopleId>556</peopleId>
+    <roleName>Tom</roleName>
+  </Role>
+  <Role>
+    <filmId>2071</filmId>
+    <peopleId>123</peopleId>
+    <roleName>Gny. Sgt. Hartman</roleName>
+  </Role>
+  <Role>
+    <filmId>2071</filmId>
+    <peopleId>297</peopleId>
+    <roleName>Pvt. Pyle</roleName>
+  </Role>
+  <Role>
+    <filmId>2071</filmId>
+    <peopleId>296</peopleId>
+    <roleName>Animal Mother</roleName>
+  </Role>
+  <Role>
+    <filmId>2071</filmId>
+    <peopleId>295</peopleId>
+    <roleName>Pvt. Joker</roleName>
+  </Role>
+  <Role>
+    <filmId>2010</filmId>
+    <peopleId>50</peopleId>
+    <roleName>Harvey Dent</roleName>
+  </Role>
+  <Role>
+    <filmId>2010</filmId>
+    <peopleId>49</peopleId>
+    <roleName>Joker</roleName>
+  </Role>
+  <Role>
+    <filmId>2010</filmId>
+    <peopleId>48</peopleId>
+    <roleName>Bruce Wayne / Batman</roleName>
+  </Role>
+</ArrayOfRole>
