@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
@@ -19,7 +20,10 @@ namespace LinqPresentation
             "1990's characters",
             "All films",
             "All Peoples",
-            "All Directors"
+            "All Directors",
+            "Director-Actor",
+            "UPDATE all films length +1",
+            "UPDATE all films length -1"
         };
         public IEnumerable<People> Peoples;
 
@@ -30,21 +34,7 @@ namespace LinqPresentation
         {
             InitializeComponent();
             DataToShow.ItemsSource = files;
-            DataToShowXML.ItemsSource = files;
             QueryToShow.ItemsSource = Queries;
-        }
-
-        private void DataToShowXML_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            
-        }
-
-        private void LoadFromXML_Click(object sender, RoutedEventArgs e)
-        {
-
-            var Directors = XDocument
-                .Load(@"C:\\Users\\FrelV\\source\\repos\\LinqPresentation\\LinqPresentation\\Data\\Directors.xml").Elements().Select(node => new Director((int)node.Element("FilmId"),(int)node.Element("PeopleId")));
-            XMLToShow.ItemsSource = Directors;
         }
 
         private void ConnectDB_Click(object sender, RoutedEventArgs e)
@@ -116,6 +106,57 @@ namespace LinqPresentation
                         d.Key.Surname,
                         Film = string.Join(", ", d.Select(i => i.Movie.Name))
                     }); break;
+                case "Director-Actor":
+                    DataShowDB.ItemsSource = DataBase.Directors
+                        .Join(DataBase.Roles, d => d.FilmId, r => r.FilmId, (d, r) => new {d, r})
+                        .Where(@t => @t.d.PeopleId == @t.r.PeopleId)
+                        .Select(@t => new
+                        {
+                            @t.d.People.Name,
+                            @t.d.People.Surname,
+                            movie = @t.d.Movie.Name,
+                            Role = @t.r.Role1
+                        });
+                    break;
+                case "UPDATE all films length +1":
+                    var toUpdate =
+                        from films in DataBase.Movies
+                        select films;
+                    foreach (var film in toUpdate)
+                    {
+                        film.Length += 1;
+                    }
+                    try
+                    {
+                        DataBase.SubmitChanges();
+                    }
+                    catch (Exception exception)
+                    {
+                        Console.WriteLine(exception);
+                        throw;
+                    }
+                    DataShowDB.ItemsSource = toUpdate;
+                    break;
+                case "UPDATE all films length -1":
+                    var Update =
+                        from films in DataBase.Movies
+                        select films;
+                    foreach (var film in Update)
+                    {
+                        film.Length -= 1;
+                    }
+                    try
+                    {
+                        DataBase.SubmitChanges();
+                    }
+                    catch (Exception exception)
+                    {
+                        Console.WriteLine(exception);
+                        throw;
+                    }
+                    DataShowDB.ItemsSource = Update;
+                    break;
+
             }
         }
     }

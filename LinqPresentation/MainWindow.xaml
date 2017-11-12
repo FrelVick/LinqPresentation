@@ -19,14 +19,6 @@
                     <ComboBox x:Name="QueryToShow" HorizontalAlignment="Left" Margin="462,71,0,0" VerticalAlignment="Top" Width="116" SelectionChanged="QueryToShow_SelectionChanged"/>
                 </Grid>
             </TabItem>
-            <TabItem x:Name="XML" Header="XML">
-                <Grid Background="#FFE5E5E5">
-                    <Button x:Name="LoadFromXML" Content="Load XML" HorizontalAlignment="Left" Margin="461,10,0,0" VerticalAlignment="Top" Width="116" Height="25" Click="LoadFromXML_Click"/>
-                    <DataGrid x:Name="XMLToShow" HorizontalAlignment="Left" Height="251" Margin="10,10,0,0" VerticalAlignment="Top" Width="446"/>
-                    <Label Content="Show XML" HorizontalAlignment="Left" Margin="462,40,0,0" VerticalAlignment="Top" Height="26" Width="116"/>
-                    <ComboBox x:Name="DataToShowXML" HorizontalAlignment="Left" Margin="462,71,0,0" VerticalAlignment="Top" Width="116" SelectionChanged="DataToShowXML_SelectionChanged"/>
-                </Grid>
-            </TabItem>
             <TabItem x:Name="Memory" Header="Memory">
                 <Grid Background="#FFE5E5E5">
                     <Grid.ColumnDefinitions>
