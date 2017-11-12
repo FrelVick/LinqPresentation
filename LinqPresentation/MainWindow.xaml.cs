@@ -28,6 +28,7 @@ namespace LinqPresentation
         public IEnumerable<People> Peoples;
 
         public LinqDB DataBase;
+        public LinqPresentationDataContext LinqPresentationDataContext;
 
         //public IEnumerable<string[]> DataSource = 
         public MainWindow()
@@ -39,16 +40,10 @@ namespace LinqPresentation
 
         private void ConnectDB_Click(object sender, RoutedEventArgs e)
         {
-            DataBase = new LinqDB("Data Source=linqsql.database.windows.net;Initial Catalog=LinqDB;Integrated Security=False;User ID=FrelVick;Password=Pogosty$1010;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            LinqPresentationDataContext = new LinqPresentationDataContext("Data Source=linqsql.database.windows.net;Initial Catalog=LinqDB;Integrated Security=False;User ID=FrelVick;Password=Pogosty$1010;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
+            //DataBase = new LinqDB("Data Source=linqsql.database.windows.net;Initial Catalog=LinqDB;Integrated Security=False;User ID=FrelVick;Password=Pogosty$1010;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False");
 
-            var longFilms = DataBase.Movies.Where(movie => movie.Length >= 120);
-            var Directors = DataBase.Directors.GroupBy(direct => direct.People)
-                .Select(grouping => new
-                {
-                    grouping.Key.Name,
-                    grouping.Key.Surname,
-                    FilmCount = grouping.Count()
-                });
+            
 
 
             DataShowDB.ItemsSource = Directors;
@@ -61,10 +56,10 @@ namespace LinqPresentation
             switch (QueryToShow.SelectedItem)
             {
                 case "Films longer than 2h":
-                    DataShowDB.ItemsSource = DataBase.Movies.Where(movie => movie.Length >= 120);
+                    DataShowDB.ItemsSource = LinqPresentationDataContext.Movies.Where(movie => movie.Length >= 120);//DataBase.Movies.Where(movie => movie.Length >= 120);
                     break;
                 case "Count films by director":
-                    DataShowDB.ItemsSource = DataBase.Directors.GroupBy(direct => direct.People)
+                    DataShowDB.ItemsSource = LinqPresentationDataContext.Directors.GroupBy(direct => direct.People)
                         .Select(grouping => new
                         {
                             grouping.Key.Name,
@@ -73,11 +68,11 @@ namespace LinqPresentation
                         }).OrderBy(d => d.FilmCount);
                     break;
                 case "All films":
-                    DataShowDB.ItemsSource = DataBase.Movies;
+                    DataShowDB.ItemsSource = LinqPresentationDataContext.Movies;
                     break;
                 case "1990's characters":
-                    DataShowDB.ItemsSource = DataBase.Roles
-                        .Join(DataBase.Movies, r => r.FilmId, m => m.Id, (r, m) => new {r, m})
+                    DataShowDB.ItemsSource = LinqPresentationDataContext.Roles
+                        .Join(LinqPresentationDataContext.Movies, r => r.FilmId, m => m.Id, (r, m) => new {r, m})
                         .Where(t => t.m.Year == 1990)
                         .Select(t => new
                         {
@@ -86,8 +81,8 @@ namespace LinqPresentation
                             Role = t.r.Role1
                         });
                     /* same querie
-                    from r in DataBase.Roles
-                    join m in DataBase.Movies on r.FilmId equals m.Id
+                    from r in LinqPresentationDataContext.Roles
+                    join m in LinqPresentationDataContext.Movies on r.FilmId equals m.Id
                     where m.Year == 1990
                     select new
                     {
@@ -98,29 +93,29 @@ namespace LinqPresentation
                     */
                     break;
                 case "All Peoples":
-                    DataShowDB.ItemsSource = DataBase.Peoples; break;
+                    DataShowDB.ItemsSource = LinqPresentationDataContext.Peoples; break;
                 case "All Directors":
-                    DataShowDB.ItemsSource = DataBase.Directors.GroupBy(d => d.People).Select(d => new
+                    DataShowDB.ItemsSource = LinqPresentationDataContext.Directors.GroupBy(d => d.People).Select(d => new
                     {
                         d.Key.Name,
                         d.Key.Surname,
-                        Film = string.Join(", ", d.Select(i => i.Movie.Name))
+                        Film = string.Join(", ", d.Select(i => i.Movy.Name))
                     }); break;
                 case "Director-Actor":
-                    DataShowDB.ItemsSource = DataBase.Directors
-                        .Join(DataBase.Roles, d => d.FilmId, r => r.FilmId, (d, r) => new {d, r})
+                    DataShowDB.ItemsSource = LinqPresentationDataContext.Directors
+                        .Join(LinqPresentationDataContext.Roles, d => d.FilmId, r => r.FilmId, (d, r) => new {d, r})
                         .Where(@t => @t.d.PeopleId == @t.r.PeopleId)
                         .Select(@t => new
                         {
                             @t.d.People.Name,
                             @t.d.People.Surname,
-                            movie = @t.d.Movie.Name,
+                            movie = @t.d.Movy.Name,
                             Role = @t.r.Role1
                         });
                     break;
                 case "UPDATE all films length +1":
                     var toUpdate =
-                        from films in DataBase.Movies
+                        from films in LinqPresentationDataContext.Movies
                         select films;
                     foreach (var film in toUpdate)
                     {
@@ -128,7 +123,7 @@ namespace LinqPresentation
                     }
                     try
                     {
-                        DataBase.SubmitChanges();
+                        LinqPresentationDataContext.SubmitChanges();
                     }
                     catch (Exception exception)
                     {
@@ -139,7 +134,7 @@ namespace LinqPresentation
                     break;
                 case "UPDATE all films length -1":
                     var Update =
-                        from films in DataBase.Movies
+                        from films in LinqPresentationDataContext.Movies
                         select films;
                     foreach (var film in Update)
                     {
@@ -147,7 +142,7 @@ namespace LinqPresentation
                     }
                     try
                     {
-                        DataBase.SubmitChanges();
+                        LinqPresentationDataContext.SubmitChanges();
                     }
                     catch (Exception exception)
                     {
@@ -156,7 +151,6 @@ namespace LinqPresentation
                     }
                     DataShowDB.ItemsSource = Update;
                     break;
-
             }
         }
     }

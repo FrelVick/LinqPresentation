@@ -71,6 +71,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>LinqDBDataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="LinqPresentation.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LinqPresentation.dbml</DependentUpon>
+    </Compile>
     <Compile Include="LinqToFile.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
@@ -107,6 +112,14 @@
     <None Include="LinqDBDataSet.xss">
       <DependentUpon>LinqDBDataSet.xsd</DependentUpon>
     </None>
+    <None Include="LinqPresentation.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>LinqPresentation.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LinqPresentation.dbml.layout">
+      <DependentUpon>LinqPresentation.dbml</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -129,6 +142,9 @@
     <Resource Include="Data\Movies.xml" />
     <Resource Include="Data\Peoples.xml" />
     <Resource Include="Data\Roles.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

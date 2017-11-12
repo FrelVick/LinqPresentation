@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LinqPresentation"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="621">
+        Title="LinqPresentation" Height="350" Width="621">
     <Grid>
         <TabControl Height="299" Margin="10,10,10,10" SelectionChanged="TabControl_SelectionChanged">
             <TabItem x:Name="DB" Header="Database">

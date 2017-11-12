@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LinqPresentation">
+  <DataContextMoniker Name="/LinqPresentationDataContext" />
+  <nestedChildShapes>
+    <classShape Id="05cabc1b-9ea4-4df2-998c-2aa70df51114" absoluteBounds="5.125, 2.125, 2, 1.3862939453125">
+      <DataClassMoniker Name="/LinqPresentationDataContext/Director" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7fe92dd5-b5eb-4aa5-937a-340276cd1620" absoluteBounds="5.1400000000000006, 2.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ffac3c67-b31f-4e0a-b506-db74ec01b81f" absoluteBounds="2.75, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LinqPresentationDataContext/Movy" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6ed716f2-605e-4a06-962d-1ebe48d1aee1" absoluteBounds="2.7649999999999997, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.75 : 2.28929768880208); (5.125 : 2.28929768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqPresentationDataContext/Movy/Movy_Director" />
+      <nodes>
+        <classShapeMoniker Id="ffac3c67-b31f-4e0a-b506-db74ec01b81f" />
+        <classShapeMoniker Id="05cabc1b-9ea4-4df2-998c-2aa70df51114" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="a9ba58d2-c7d8-4d24-9341-b5c525a56206" absoluteBounds="2.75, 3.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/LinqPresentationDataContext/People" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97367e99-5881-4d58-b3d4-025bf00fcfbf" absoluteBounds="2.765, 3.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.75 : 3.25); (3.75 : 2.85179768880208); (5.125 : 2.85179768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqPresentationDataContext/People/People_Director" />
+      <nodes>
+        <classShapeMoniker Id="a9ba58d2-c7d8-4d24-9341-b5c525a56206" />
+        <classShapeMoniker Id="05cabc1b-9ea4-4df2-998c-2aa70df51114" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="2af2015f-a834-4d2f-a4b8-9d2337fe3eb8" absoluteBounds="0.5, 1.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/LinqPresentationDataContext/Role" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c85b9261-12c3-4a39-b318-c5aa765f7418" absoluteBounds="0.515, 2.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 2.16429768880208); (2.5 : 2.16429768880208)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqPresentationDataContext/Movy/Movy_Role" />
+      <nodes>
+        <classShapeMoniker Id="ffac3c67-b31f-4e0a-b506-db74ec01b81f" />
+        <classShapeMoniker Id="2af2015f-a834-4d2f-a4b8-9d2337fe3eb8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(3.218748 : 3.25); (3.218748 : 2.65269753320313); (2.5 : 2.65269753320313)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/LinqPresentationDataContext/People/People_Role" />
+      <nodes>
+        <classShapeMoniker Id="a9ba58d2-c7d8-4d24-9341-b5c525a56206" />
+        <classShapeMoniker Id="2af2015f-a834-4d2f-a4b8-9d2337fe3eb8" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

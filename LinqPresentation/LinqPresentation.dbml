@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="LinqDB" Class="LinqPresentationDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=linqsql.database.windows.net;Initial Catalog=LinqDB;Persist Security Info=True;User ID=FrelVick" SettingsObjectName="LinqPresentation.Properties.Settings" SettingsPropertyName="LinqDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Directors" Member="Directors">
+    <Type Name="Director">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="PeopleId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FilmId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Movy_Director" Member="Movy" ThisKey="FilmId" OtherKey="Id" Type="Movy" IsForeignKey="true" />
+      <Association Name="People_Director" Member="People" ThisKey="PeopleId" OtherKey="Id" Type="People" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Movies" Member="Movies">
+    <Type Name="Movy">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(120) NOT NULL" CanBeNull="false" />
+      <Column Name="Year" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Length" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Movy_Director" Member="Directors" ThisKey="Id" OtherKey="FilmId" Type="Director" />
+      <Association Name="Movy_Role" Member="Roles" ThisKey="Id" OtherKey="FilmId" Type="Role" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Peoples" Member="Peoples">
+    <Type Name="People">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Surname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="People_Director" Member="Directors" ThisKey="Id" OtherKey="PeopleId" Type="Director" />
+      <Association Name="People_Role" Member="Roles" ThisKey="Id" OtherKey="PeopleId" Type="Role" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Roles" Member="Roles">
+    <Type Name="Role">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="FilmId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PeopleId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Role" Member="Role1" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Movy_Role" Member="Movy" ThisKey="FilmId" OtherKey="Id" Type="Movy" IsForeignKey="true" />
+      <Association Name="People_Role" Member="People" ThisKey="PeopleId" OtherKey="Id" Type="People" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
